@@ -1,0 +1,98 @@
+<annotation>
+	<folder>train</folder>
+	<filename>20211210_131314.jpg</filename>
+	<path>D:\PKL\SAM-AI\TensorFlow\workspace\images\train\20211210_131314.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1800</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gery Saluut Chocolate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>577</xmin>
+			<ymin>463</ymin>
+			<xmax>1009</xmax>
+			<ymax>722</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gery Saluut Sweet Cheese</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1023</xmin>
+			<ymin>1355</ymin>
+			<xmax>1439</xmax>
+			<ymax>1618</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gery Saluut Matcha Latte</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>576</xmin>
+			<ymin>2165</ymin>
+			<xmax>921</xmax>
+			<ymax>2414</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Golden Malkist Lapis Cokelat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>163</xmin>
+			<ymin>2955</ymin>
+			<xmax>613</xmax>
+			<ymax>3199</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cheese Snack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1463</xmin>
+			<ymin>2994</ymin>
+			<xmax>1707</xmax>
+			<ymax>3404</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cheese Biskuit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>896</xmin>
+			<ymin>3579</ymin>
+			<xmax>1359</xmax>
+			<ymax>3996</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Toasty Chese Crackers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>232</xmin>
+			<ymin>3577</ymin>
+			<xmax>815</xmax>
+			<ymax>3992</ymax>
+		</bndbox>
+	</object>
+</annotation>

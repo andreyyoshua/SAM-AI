@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Garuda Kacang Kulit Premium -155g .jpg</filename>
+	<path>C:\My Project\pkl\SAM-AI\TensorFlow\workspace\images\train\Garuda Kacang Kulit Premium -155g .jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>370</width>
+		<height>370</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>90101112113100</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>29</ymin>
+			<xmax>303</xmax>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+</annotation>

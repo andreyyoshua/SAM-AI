@@ -1,0 +1,50 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_20220202_120940.jpg</filename>
+	<path>C:\My Project\pkl\SAM-AI\TensorFlow\workspace\images\train\IMG_20220202_120940.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4208</width>
+		<height>1892</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>90101225212100</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1962</xmin>
+			<ymin>1460</ymin>
+			<xmax>2292</xmax>
+			<ymax>1735</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225226101</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2567</xmin>
+			<ymin>1504</ymin>
+			<xmax>2984</xmax>
+			<ymax>1732</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Malkist keju manis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3576</xmin>
+			<ymin>1299</ymin>
+			<xmax>4135</xmax>
+			<ymax>1542</ymax>
+		</bndbox>
+	</object>
+</annotation>

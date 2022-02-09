@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_20220202_121043.jpg</filename>
+	<path>C:\My Project\pkl\SAM-AI\TensorFlow\workspace\images\train\IMG_20220202_121043.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4208</width>
+		<height>1892</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>90101112102100</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>172</xmin>
+			<ymin>1305</ymin>
+			<xmax>641</xmax>
+			<ymax>1868</ymax>
+		</bndbox>
+	</object>
+</annotation>

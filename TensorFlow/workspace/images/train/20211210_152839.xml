@@ -156,7 +156,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Gerry Saluut - Chocolate Coconut</name>
+		<name>90101225218101</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -168,7 +168,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Gerry Saluut - Coconut</name>
+		<name>90101225209100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

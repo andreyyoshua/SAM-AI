@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Tictac sapi panggang</name>
+		<name>90101151402100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -36,7 +36,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Garuda Pilus Hitam</name>
+		<name>90101151404200</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -60,7 +60,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Garuda Pilus Putih</name>
+		<name>90101151604100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -72,7 +72,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Garuda Kacang Atom Kuning</name>
+		<name>90101111202100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -101,14 +101,14 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1396</xmin>
-			<ymin>1482</ymin>
-			<xmax>1625</xmax>
-			<ymax>1812</ymax>
+			<xmin>1390</xmin>
+			<ymin>1479</ymin>
+			<xmax>1619</xmax>
+			<ymax>1809</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Garuda Rosta Kacang Panggang Hijau</name>
+		<name>90101111607100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -132,7 +132,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Garuda Kacang Atom Merah</name>
+		<name>90101111302100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -144,7 +144,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Garuda Kacang Telur</name>
+		<name>90101111706200</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -156,7 +156,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Garuda Rosta Kacang Panggang Coklat</name>
+		<name>90101111615100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -165,6 +165,18 @@
 			<ymin>2768</ymin>
 			<xmax>468</xmax>
 			<ymax>3068</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101111301100</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1369</xmin>
+			<ymin>3237</ymin>
+			<xmax>1612</xmax>
+			<ymax>3565</ymax>
 		</bndbox>
 	</object>
 </annotation>

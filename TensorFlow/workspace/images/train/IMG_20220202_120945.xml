@@ -1,98 +1,98 @@
 <annotation>
 	<folder>train</folder>
-	<filename>20211210_131314.jpg</filename>
-	<path>D:\PKL\SAM-AI\TensorFlow\workspace\images\train\20211210_131314.jpg</path>
+	<filename>IMG_20220202_120945.jpg</filename>
+	<path>D:\PKL\SAM-AI\TensorFlow\workspace\images\train\IMG_20220202_120945.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1800</width>
-		<height>4000</height>
+		<width>4208</width>
+		<height>1892</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>90101225202100</name>
+		<name>90101225212101</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>577</xmin>
-			<ymin>463</ymin>
-			<xmax>1009</xmax>
-			<ymax>722</ymax>
+			<xmin>1977</xmin>
+			<ymin>862</ymin>
+			<xmax>2247</xmax>
+			<ymax>1049</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225205100</name>
+		<name>90101225226101</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1023</xmin>
+			<xmin>2593</xmin>
+			<ymin>850</ymin>
+			<xmax>2923</xmax>
+			<ymax>1050</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225209100</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2153</xmin>
+			<ymin>1357</ymin>
+			<xmax>2433</xmax>
+			<ymax>1506</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225218101</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1367</xmin>
+			<ymin>1552</ymin>
+			<xmax>1728</xmax>
+			<ymax>1708</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225202101</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>984</xmin>
+			<ymin>1343</ymin>
+			<xmax>1319</xmax>
+			<ymax>1506</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225226100</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2986</xmin>
+			<ymin>690</ymin>
+			<xmax>3286</xmax>
+			<ymax>864</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225209101</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2510</xmin>
 			<ymin>1355</ymin>
-			<xmax>1439</xmax>
-			<ymax>1618</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101225212100</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>569</xmin>
-			<ymin>2162</ymin>
-			<xmax>914</xmax>
-			<ymax>2411</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Golden Malkist Lapis Cokelat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>163</xmin>
-			<ymin>2955</ymin>
-			<xmax>613</xmax>
-			<ymax>3199</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Cheese Snack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1463</xmin>
-			<ymin>2994</ymin>
-			<xmax>1707</xmax>
-			<ymax>3404</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Cheese Biskuit</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>896</xmin>
-			<ymin>3579</ymin>
-			<xmax>1359</xmax>
-			<ymax>3996</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Toasty Chese Crackers</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>232</xmin>
-			<ymin>3577</ymin>
-			<xmax>815</xmax>
-			<ymax>3992</ymax>
+			<xmax>2769</xmax>
+			<ymax>1525</ymax>
 		</bndbox>
 	</object>
 </annotation>

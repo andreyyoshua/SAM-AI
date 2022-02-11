@@ -120,18 +120,6 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225212100</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2314</xmin>
-			<ymin>1443</ymin>
-			<xmax>2555</xmax>
-			<ymax>1710</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>id tidak ada/Gery Malkist Saluut Double Abon - 105 Gr</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>

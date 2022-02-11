@@ -302,18 +302,6 @@
 	<object>
 		<name>90101111202100/Garuda Atom Original - 115g + 23 g</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1</xmin>
-			<ymin>1770</ymin>
-			<xmax>215</xmax>
-			<ymax>2081</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101111202100/Garuda Atom Original - 115g + 23 g</name>
-		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
@@ -357,42 +345,6 @@
 			<ymin>1792</ymin>
 			<xmax>1087</xmax>
 			<ymax>2121</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101112202100Garing Rasa Bawang -90g</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>253</xmin>
-			<ymin>2215</ymin>
-			<xmax>560</xmax>
-			<ymax>2536</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101111302100/ Atom Pedas Garuda -100g</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1345</xmin>
-			<ymin>2271</ymin>
-			<xmax>1626</xmax>
-			<ymax>2638</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101111302100/ Atom Pedas Garuda -100g</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1634</xmin>
-			<ymin>2273</ymin>
-			<xmax>1800</xmax>
-			<ymax>2649</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -441,66 +393,6 @@
 			<ymin>2719</ymin>
 			<xmax>1483</xmax>
 			<ymax>2992</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101112113100/Garuda Kacang Kulit Premium -155g</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1482</xmin>
-			<ymin>2724</ymin>
-			<xmax>1747</xmax>
-			<ymax>2997</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101112101100/Garing Garuda 750g</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>85</xmin>
-			<ymin>3334</ymin>
-			<xmax>463</xmax>
-			<ymax>3679</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101112101100/Garing Garuda 750g</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>476</xmin>
-			<ymin>3409</ymin>
-			<xmax>854</xmax>
-			<ymax>3754</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101112101100/Garing Garuda 750g</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>872</xmin>
-			<ymin>3475</ymin>
-			<xmax>1294</xmax>
-			<ymax>3870</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101112101100/Garing Garuda 750g</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1302</xmin>
-			<ymin>3535</ymin>
-			<xmax>1771</xmax>
-			<ymax>3938</ymax>
 		</bndbox>
 	</object>
 	<object>

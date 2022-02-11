@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1794</xmin>
-			<ymin>755</ymin>
-			<xmax>2193</xmax>
-			<ymax>1288</ymax>
+			<xmin>1810</xmin>
+			<ymin>766</ymin>
+			<xmax>2184</xmax>
+			<ymax>1283</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,22 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1251</xmin>
-			<ymin>713</ymin>
-			<xmax>1627</xmax>
-			<ymax>1266</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101154205100/Garuda Crunchy Potato Daging Sapi BBQ 60g</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1573</xmin>
-			<ymin>748</ymin>
-			<xmax>1810</xmax>
-			<ymax>1262</ymax>
+			<xmin>1240</xmin>
+			<ymin>720</ymin>
+			<xmax>1623</xmax>
+			<ymax>1264</ymax>
 		</bndbox>
 	</object>
 </annotation>

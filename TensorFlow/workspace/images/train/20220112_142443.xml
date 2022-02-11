@@ -77,34 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1120</xmin>
-			<ymin>1085</ymin>
-			<xmax>1378</xmax>
-			<ymax>1207</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101225202101/Gery Saluut MlkstCklt F.Pack-110g</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
 			<xmin>1099</xmin>
 			<ymin>1273</ymin>
 			<xmax>1385</xmax>
 			<ymax>1393</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101225202101/Gery Saluut MlkstCklt F.Pack-110g</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>810</xmin>
-			<ymin>1082</ymin>
-			<xmax>1075</xmax>
-			<ymax>1159</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -126,8 +102,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1899</xmin>
-			<ymin>1253</ymin>
-			<xmax>2127</xmax>
+			<ymin>1261</ymin>
+			<xmax>2124</xmax>
 			<ymax>1393</ymax>
 		</bndbox>
 	</object>
@@ -151,32 +127,8 @@
 		<bndbox>
 			<xmin>1655</xmin>
 			<ymin>1190</ymin>
-			<xmax>1886</xmax>
-			<ymax>1329</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101225209100/Gery Saluut Malkist Kelapa Family Pack -105g</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1407</xmin>
-			<ymin>1186</ymin>
-			<xmax>1635</xmax>
-			<ymax>1273</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101225209100/Gery Saluut Malkist Kelapa Family Pack -105g</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2132</xmin>
-			<ymin>1090</ymin>
-			<xmax>2356</xmax>
-			<ymax>1157</ymax>
+			<xmax>1888</xmax>
+			<ymax>1321</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -213,30 +165,6 @@
 			<ymin>1280</ymin>
 			<xmax>2777</xmax>
 			<ymax>1390</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101225212101/Gery Saluut Malkist Matcha 100gr</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2369</xmin>
-			<ymin>1092</ymin>
-			<xmax>2578</xmax>
-			<ymax>1147</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101225212101/Gery Saluut Malkist Matcha 100gr</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2592</xmin>
-			<ymin>1093</ymin>
-			<xmax>2805</xmax>
-			<ymax>1142</ymax>
 		</bndbox>
 	</object>
 	<object>

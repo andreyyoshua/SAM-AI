@@ -156,7 +156,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225218101</name>
+		<name>90101225218101/Gery Saluut MlkstCklt Kelapa-105g</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -168,7 +168,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225209100</name>
+		<name>90101225209100/Gery Saluut MlkstCklt Kelapa-105g</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -237,6 +237,102 @@
 			<ymin>3427</ymin>
 			<xmax>1218</xmax>
 			<ymax>3660</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225218101/Gery Saluut MlkstCklt Kelapa-105g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>2309</ymin>
+			<xmax>525</xmax>
+			<ymax>2506</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225218101/Gery Saluut MlkstCklt Kelapa-105g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>571</xmin>
+			<ymin>2479</ymin>
+			<xmax>891</xmax>
+			<ymax>2666</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225218101/Gery Saluut MlkstCklt Kelapa-105g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>192</xmin>
+			<ymin>2507</ymin>
+			<xmax>512</xmax>
+			<ymax>2694</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225209100/Gery Saluut MlkstCklt Kelapa-105g</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1548</xmin>
+			<ymin>2290</ymin>
+			<xmax>1800</xmax>
+			<ymax>2496</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225209100/Gery Saluut MlkstCklt Kelapa-105g</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1548</xmin>
+			<ymin>2496</ymin>
+			<xmax>1800</xmax>
+			<ymax>2702</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225209100/Gery Saluut MlkstCklt Kelapa-105g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>909</xmin>
+			<ymin>2274</ymin>
+			<xmax>1209</xmax>
+			<ymax>2481</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225209100/Gery Saluut MlkstCklt Kelapa-105g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>911</xmin>
+			<ymin>2470</ymin>
+			<xmax>1211</xmax>
+			<ymax>2677</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225209100/Gery Saluut MlkstCklt Kelapa-105g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1231</xmin>
+			<ymin>2496</ymin>
+			<xmax>1512</xmax>
+			<ymax>2679</ymax>
 		</bndbox>
 	</object>
 </annotation>

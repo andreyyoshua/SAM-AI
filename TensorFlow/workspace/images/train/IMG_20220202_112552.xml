@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>90101225205101</name>
+		<name>90101225205101/Gery Salut Mlkst Keju F.Pack-110g</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -24,19 +24,19 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225202101</name>
+		<name>90101225202101/Gery Saluut MlkstCklt F.Pack-110g</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2240</xmin>
+			<xmin>2236</xmin>
 			<ymin>1094</ymin>
-			<xmax>2641</xmax>
+			<xmax>2637</xmax>
 			<ymax>1355</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225218101</name>
+		<name>90101225218101/Gery Saluut MlkstCklt Kelapa-105g</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -48,7 +48,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225226101</name>
+		<name>90101225226101/Gery Malkist Saluut Abon - 105 Gr</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -60,7 +60,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225209100</name>
+		<name>90101225209100/Gery Saluut Malkist Kelapa Family Pack -105g</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -72,27 +72,51 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111615100</name>
+		<name>90101111615100/Garuda Rosta Wagyu Beef -100g</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>288</xmin>
-			<ymin>715</ymin>
+			<xmin>353</xmin>
+			<ymin>690</ymin>
 			<xmax>702</xmax>
 			<ymax>1179</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111611100</name>
+		<name>90101111611100/Garuda Rosta Kacang Pedas Rs Pedas -70g/95g</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>550</xmin>
-			<ymin>1316</ymin>
-			<xmax>840</xmax>
-			<ymax>1741</ymax>
+			<xmin>540</xmin>
+			<ymin>1319</ymin>
+			<xmax>830</xmax>
+			<ymax>1744</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225202101/Gery Saluut MlkstCklt F.Pack-110g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1786</xmin>
+			<ymin>1144</ymin>
+			<xmax>2190</xmax>
+			<ymax>1369</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101111615100/Garuda Rosta Wagyu Beef -100g</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>636</ymin>
+			<xmax>367</xmax>
+			<ymax>1171</ymax>
 		</bndbox>
 	</object>
 </annotation>

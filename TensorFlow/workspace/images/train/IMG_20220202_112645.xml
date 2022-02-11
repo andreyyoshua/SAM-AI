@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>90101111615100</name>
+		<name>90101111615100/Garuda Rosta Wagyu Beef -100g</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111611100</name>
+		<name>90101111611100/Garuda Rosta Kacang Pedas Rs Pedas -70g/95g</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
@@ -33,6 +33,18 @@
 			<ymin>1494</ymin>
 			<xmax>3502</xmax>
 			<ymax>1892</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101111615100/Garuda Rosta Wagyu Beef -100g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3197</xmin>
+			<ymin>768</ymin>
+			<xmax>3646</xmax>
+			<ymax>1252</ymax>
 		</bndbox>
 	</object>
 </annotation>

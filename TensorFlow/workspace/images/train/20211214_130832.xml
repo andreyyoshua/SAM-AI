@@ -55,32 +55,8 @@
 		<bndbox>
 			<xmin>1478</xmin>
 			<ymin>2930</ymin>
-			<xmax>1619</xmax>
-			<ymax>3143</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101111202100/Garuda Atom Original - 115g + 23 g</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>904</xmin>
-			<ymin>2013</ymin>
-			<xmax>1038</xmax>
-			<ymax>2198</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101111202100/Garuda Atom Original - 115g + 23 g</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>762</xmin>
-			<ymin>2015</ymin>
-			<xmax>917</xmax>
-			<ymax>2192</ymax>
+			<xmax>1617</xmax>
+			<ymax>3124</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -149,46 +125,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>954</xmin>
-			<ymin>1744</ymin>
-			<xmax>1085</xmax>
-			<ymax>1933</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101111202100/Garuda Atom Original - 115g + 23 g</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1074</xmin>
-			<ymin>1739</ymin>
-			<xmax>1217</xmax>
-			<ymax>1939</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101111202100/Garuda Atom Original - 115g + 23 g</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1215</xmin>
-			<ymin>1739</ymin>
-			<xmax>1365</xmax>
-			<ymax>1913</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101111202100/Garuda Atom Original - 115g + 23 g</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1249</xmin>
-			<ymin>1489</ymin>
-			<xmax>1390</xmax>
-			<ymax>1628</ymax>
+			<xmin>1192</xmin>
+			<ymin>2008</ymin>
+			<xmax>1338</xmax>
+			<ymax>2195</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -228,42 +168,6 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111202100/Garuda Atom Original - 115g + 23 g</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>944</xmin>
-			<ymin>1494</ymin>
-			<xmax>1086</xmax>
-			<ymax>1663</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101111615100/Garuda Rosta Wagyu Beef -100g</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>567</xmin>
-			<ymin>2264</ymin>
-			<xmax>722</xmax>
-			<ymax>2409</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101111615100/Garuda Rosta Wagyu Beef -100g</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>565</xmin>
-			<ymin>2262</ymin>
-			<xmax>720</xmax>
-			<ymax>2407</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>90101111615100/Garuda Rosta Wagyu Beef -100g</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -285,42 +189,6 @@
 			<ymin>2271</ymin>
 			<xmax>1036</xmax>
 			<ymax>2442</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101111615100/Garuda Rosta Wagyu Beef -100g</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1044</xmin>
-			<ymin>2273</ymin>
-			<xmax>1190</xmax>
-			<ymax>2445</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101111615100/Garuda Rosta Wagyu Beef -100g</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1189</xmin>
-			<ymin>2283</ymin>
-			<xmax>1342</xmax>
-			<ymax>2456</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101111615100/Garuda Rosta Wagyu Beef -100g</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>731</xmin>
-			<ymin>2552</ymin>
-			<xmax>897</xmax>
-			<ymax>2745</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -353,46 +221,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>927</xmin>
-			<ymin>2559</ymin>
-			<xmax>1092</xmax>
-			<ymax>2742</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101111615100/Garuda Rosta Wagyu Beef -100g</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1084</xmin>
-			<ymin>2560</ymin>
-			<xmax>1200</xmax>
-			<ymax>2746</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101111615100/Garuda Rosta Wagyu Beef -100g</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1082</xmin>
-			<ymin>2558</ymin>
-			<xmax>1198</xmax>
-			<ymax>2744</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101111615100/Garuda Rosta Wagyu Beef -100g</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1199</xmin>
+			<xmin>1200</xmin>
 			<ymin>2556</ymin>
 			<xmax>1333</xmax>
-			<ymax>2732</ymax>
+			<ymax>2741</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -449,22 +281,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1380</xmin>
-			<ymin>2933</ymin>
-			<xmax>1481</xmax>
-			<ymax>3096</ymax>
+			<xmin>1631</xmin>
+			<ymin>2936</ymin>
+			<xmax>1768</xmax>
+			<ymax>3132</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111302100/Atom Pedas Garuda -100g</name>
+		<name>90101111615100/Garuda Rosta Wagyu Beef -100g</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1620</xmin>
-			<ymin>2936</ymin>
-			<xmax>1768</xmax>
-			<ymax>3114</ymax>
+			<xmin>1192</xmin>
+			<ymin>2283</ymin>
+			<xmax>1336</xmax>
+			<ymax>2455</ymax>
 		</bndbox>
 	</object>
 </annotation>

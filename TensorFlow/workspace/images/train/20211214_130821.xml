@@ -31,8 +31,8 @@
 		<bndbox>
 			<xmin>619</xmin>
 			<ymin>1893</ymin>
-			<xmax>927</xmax>
-			<ymax>2271</ymax>
+			<xmax>917</xmax>
+			<ymax>2264</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -120,18 +120,6 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101112202100/Garing Rasa Bawang -90g</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>455</xmin>
-			<ymin>971</ymin>
-			<xmax>605</xmax>
-			<ymax>1171</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>90101112102100/Garing Garuda -375g</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -156,54 +144,6 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101112102100/Garing Garuda -375g</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>91</xmin>
-			<ymin>1578</ymin>
-			<xmax>398</xmax>
-			<ymax>1834</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101112102100/Garing Garuda -375g</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>942</xmin>
-			<ymin>1566</ymin>
-			<xmax>1237</xmax>
-			<ymax>1818</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101112102100/Garing Garuda -375g</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>635</xmin>
-			<ymin>1571</ymin>
-			<xmax>915</xmax>
-			<ymax>1823</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101112102100/Garing Garuda -375g</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>401</xmin>
-			<ymin>1573</ymin>
-			<xmax>642</xmax>
-			<ymax>1825</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>90101112101100/Garing Garuda -750g</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -213,30 +153,6 @@
 			<ymin>2717</ymin>
 			<xmax>458</xmax>
 			<ymax>3159</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101112101100/Garing Garuda -750g</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>535</xmin>
-			<ymin>2346</ymin>
-			<xmax>854</xmax>
-			<ymax>2635</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101112101100/Garing Garuda -750g</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>190</xmin>
-			<ymin>2347</ymin>
-			<xmax>522</xmax>
-			<ymax>2635</ymax>
 		</bndbox>
 	</object>
 </annotation>

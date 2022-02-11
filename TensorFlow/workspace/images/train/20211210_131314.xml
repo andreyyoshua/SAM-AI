@@ -407,40 +407,4 @@
 			<ymax>2164</ymax>
 		</bndbox>
 	</object>
-	<object>
-		<name>90101225212100/Gery Malkist GreenTea F.Pack -110g</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>579</xmin>
-			<ymin>1995</ymin>
-			<xmax>936</xmax>
-			<ymax>2173</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101225212100/Gery Malkist GreenTea F.Pack -110g</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>942</xmin>
-			<ymin>2014</ymin>
-			<xmax>1260</xmax>
-			<ymax>2166</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101225212100/Gery Malkist GreenTea F.Pack -110g</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1294</xmin>
-			<ymin>2019</ymin>
-			<xmax>1650</xmax>
-			<ymax>2169</ymax>
-		</bndbox>
-	</object>
 </annotation>

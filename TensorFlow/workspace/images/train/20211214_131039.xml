@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>90101225202101</name>
+		<name>90101225202101/Gery Saluut MlkstCklt F.Pack-110g</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -24,19 +24,19 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225212101</name>
+		<name>90101225212101/Gery Saluut Malkist Matcha 100gr</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>747</xmin>
-			<ymin>2279</ymin>
-			<xmax>875</xmax>
-			<ymax>2366</ymax>
+			<xmin>744</xmin>
+			<ymin>2275</ymin>
+			<xmax>872</xmax>
+			<ymax>2362</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225205101</name>
+		<name>90101225205101/Gery Salut Mlkst Keju F.Pack-110g</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -48,19 +48,19 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225218101</name>
+		<name>90101225218101/Gery Saluut MlkstCklt Kelapa-105g</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1183</xmin>
-			<ymin>2524</ymin>
-			<xmax>1338</xmax>
-			<ymax>2623</ymax>
+			<xmin>1176</xmin>
+			<ymin>2519</ymin>
+			<xmax>1331</xmax>
+			<ymax>2618</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225209101</name>
+		<name>90101225209101/Gery Salut MlkstKlapa F.Pack -105 gr</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -72,27 +72,567 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225226101</name>
+		<name>90101225226101/Gery Malkist Saluut Abon - 105 Gr</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>522</xmin>
+			<xmin>518</xmin>
 			<ymin>2760</ymin>
-			<xmax>669</xmax>
+			<xmax>665</xmax>
 			<ymax>2835</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225226100</name>
+		<name>90101225202101/Gery Saluut MlkstCklt F.Pack-110g</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>852</xmin>
+			<xmin>27</xmin>
+			<ymin>2369</ymin>
+			<xmax>179</xmax>
+			<ymax>2458</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225202101/Gery Saluut MlkstCklt F.Pack-110g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>210</xmin>
+			<ymin>2367</ymin>
+			<xmax>362</xmax>
+			<ymax>2456</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225202101/Gery Saluut MlkstCklt F.Pack-110g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>383</xmin>
+			<ymin>2374</ymin>
+			<xmax>535</xmax>
+			<ymax>2463</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225202101/Gery Saluut MlkstCklt F.Pack-110g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>564</xmin>
+			<ymin>2357</ymin>
+			<xmax>716</xmax>
+			<ymax>2446</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225202101/Gery Saluut MlkstCklt F.Pack-110g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>564</xmin>
+			<ymin>2272</ymin>
+			<xmax>716</xmax>
+			<ymax>2361</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225202101/Gery Saluut MlkstCklt F.Pack-110g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>200</xmin>
+			<ymin>2278</ymin>
+			<xmax>352</xmax>
+			<ymax>2367</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225202101/Gery Saluut MlkstCklt F.Pack-110g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>2277</ymin>
+			<xmax>173</xmax>
+			<ymax>2366</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225212101/Gery Saluut Malkist Matcha 100gr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1169</xmin>
+			<ymin>2366</ymin>
+			<xmax>1297</xmax>
+			<ymax>2453</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225212101/Gery Saluut Malkist Matcha 100gr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1028</xmin>
+			<ymin>2368</ymin>
+			<xmax>1156</xmax>
+			<ymax>2455</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225212101/Gery Saluut Malkist Matcha 100gr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>897</xmin>
+			<ymin>2366</ymin>
+			<xmax>1025</xmax>
+			<ymax>2453</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225212101/Gery Saluut Malkist Matcha 100gr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>746</xmin>
+			<ymin>2366</ymin>
+			<xmax>874</xmax>
+			<ymax>2453</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225212101/Gery Saluut Malkist Matcha 100gr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1171</xmin>
+			<ymin>2280</ymin>
+			<xmax>1299</xmax>
+			<ymax>2367</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225212101/Gery Saluut Malkist Matcha 100gr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1023</xmin>
+			<ymin>2276</ymin>
+			<xmax>1151</xmax>
+			<ymax>2363</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225212101/Gery Saluut Malkist Matcha 100gr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>882</xmin>
+			<ymin>2276</ymin>
+			<xmax>1010</xmax>
+			<ymax>2363</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225205101/Gery Salut Mlkst Keju F.Pack-110g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1484</xmin>
+			<ymin>2368</ymin>
+			<xmax>1651</xmax>
+			<ymax>2449</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225205101/Gery Salut Mlkst Keju F.Pack-110g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1507</xmin>
+			<ymin>2282</ymin>
+			<xmax>1658</xmax>
+			<ymax>2356</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225218101/Gery Saluut MlkstCklt Kelapa-105g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1221</xmin>
+			<ymin>2898</ymin>
+			<xmax>1386</xmax>
+			<ymax>2981</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225218101/Gery Saluut MlkstCklt Kelapa-105g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1048</xmin>
+			<ymin>2897</ymin>
+			<xmax>1202</xmax>
+			<ymax>2975</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225218101/Gery Saluut MlkstCklt Kelapa-105g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1044</xmin>
+			<ymin>2747</ymin>
+			<xmax>1204</xmax>
+			<ymax>2836</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225218101/Gery Saluut MlkstCklt Kelapa-105g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1038</xmin>
+			<ymin>2827</ymin>
+			<xmax>1200</xmax>
+			<ymax>2900</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225218101/Gery Saluut MlkstCklt Kelapa-105g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1223</xmin>
+			<ymin>2824</ymin>
+			<xmax>1382</xmax>
+			<ymax>2898</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225218101/Gery Saluut MlkstCklt Kelapa-105g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1214</xmin>
+			<ymin>2742</ymin>
+			<xmax>1372</xmax>
+			<ymax>2828</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225218101/Gery Saluut MlkstCklt Kelapa-105g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1344</xmin>
+			<ymin>2622</ymin>
+			<xmax>1498</xmax>
+			<ymax>2709</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225218101/Gery Saluut MlkstCklt Kelapa-105g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1348</xmin>
+			<ymin>2528</ymin>
+			<xmax>1514</xmax>
+			<ymax>2621</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225218101/Gery Saluut MlkstCklt Kelapa-105g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1175</xmin>
+			<ymin>2624</ymin>
+			<xmax>1326</xmax>
+			<ymax>2703</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225218101/Gery Saluut MlkstCklt Kelapa-105g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1007</xmin>
+			<ymin>2625</ymin>
+			<xmax>1163</xmax>
+			<ymax>2696</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225218101/Gery Saluut MlkstCklt Kelapa-105g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>846</xmin>
+			<ymin>2628</ymin>
+			<xmax>992</xmax>
+			<ymax>2711</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225218101/Gery Saluut MlkstCklt Kelapa-105g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>682</xmin>
+			<ymin>2619</ymin>
+			<xmax>826</xmax>
+			<ymax>2698</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225218101/Gery Saluut MlkstCklt Kelapa-105g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>506</xmin>
+			<ymin>2628</ymin>
+			<xmax>668</xmax>
+			<ymax>2705</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225218101/Gery Saluut MlkstCklt Kelapa-105g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>334</xmin>
+			<ymin>2612</ymin>
+			<xmax>484</xmax>
+			<ymax>2702</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225218101/Gery Saluut MlkstCklt Kelapa-105g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>499</xmin>
+			<ymin>2531</ymin>
+			<xmax>654</xmax>
+			<ymax>2630</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225218101/Gery Saluut MlkstCklt Kelapa-105g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>678</xmin>
+			<ymin>2523</ymin>
+			<xmax>833</xmax>
+			<ymax>2622</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225218101/Gery Saluut MlkstCklt Kelapa-105g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>840</xmin>
+			<ymin>2525</ymin>
+			<xmax>995</xmax>
+			<ymax>2624</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225218101/Gery Saluut MlkstCklt Kelapa-105g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1005</xmin>
+			<ymin>2528</ymin>
+			<xmax>1160</xmax>
+			<ymax>2627</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225209101/Gery Salut MlkstKlapa F.Pack -105 gr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>2616</ymin>
+			<xmax>156</xmax>
+			<ymax>2697</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225209101/Gery Salut MlkstKlapa F.Pack -105 gr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>2620</ymin>
+			<xmax>315</xmax>
+			<ymax>2701</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225209101/Gery Salut MlkstKlapa F.Pack -105 gr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>342</xmin>
+			<ymin>2532</ymin>
+			<xmax>480</xmax>
+			<ymax>2613</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225209101/Gery Salut MlkstKlapa F.Pack -105 gr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>2530</ymin>
+			<xmax>155</xmax>
+			<ymax>2611</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225226101/Gery Malkist Saluut Abon - 105 Gr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>492</xmin>
+			<ymin>2916</ymin>
+			<xmax>639</xmax>
+			<ymax>2991</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225226101/Gery Malkist Saluut Abon - 105 Gr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>673</xmin>
 			<ymin>2907</ymin>
-			<xmax>996</xmax>
-			<ymax>2988</ymax>
+			<xmax>820</xmax>
+			<ymax>2982</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225226101/Gery Malkist Saluut Abon - 105 Gr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>840</xmin>
+			<ymin>2911</ymin>
+			<xmax>987</xmax>
+			<ymax>2986</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225226101/Gery Malkist Saluut Abon - 105 Gr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>840</xmin>
+			<ymin>2833</ymin>
+			<xmax>987</xmax>
+			<ymax>2908</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225226101/Gery Malkist Saluut Abon - 105 Gr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>670</xmin>
+			<ymin>2843</ymin>
+			<xmax>817</xmax>
+			<ymax>2918</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225226101/Gery Malkist Saluut Abon - 105 Gr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>485</xmin>
+			<ymin>2841</ymin>
+			<xmax>632</xmax>
+			<ymax>2916</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225226101/Gery Malkist Saluut Abon - 105 Gr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>855</xmin>
+			<ymin>2756</ymin>
+			<xmax>1002</xmax>
+			<ymax>2831</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225226101/Gery Malkist Saluut Abon - 105 Gr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>677</xmin>
+			<ymin>2758</ymin>
+			<xmax>824</xmax>
+			<ymax>2833</ymax>
 		</bndbox>
 	</object>
 </annotation>

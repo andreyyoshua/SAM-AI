@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>90101163101100</name>
+		<name>90101163101100/Gery Snack &amp; Sereal Bantal Extrude 29 g</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101163104100</name>
+		<name>90101163104100/Gery Sn.Bantal Extrude Keju -25g</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -36,7 +36,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101232304100</name>
+		<name>90101232304100/Gery Snack &amp; Sereal -100g</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -45,6 +45,42 @@
 			<ymin>117</ymin>
 			<xmax>1606</xmax>
 			<ymax>564</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101163101100/Gery Snack &amp; Sereal Bantal Extrude 29 g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>332</xmin>
+			<ymin>319</ymin>
+			<xmax>577</xmax>
+			<ymax>521</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101163104100/Gery Sn.Bantal Extrude Keju -25g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>827</xmin>
+			<ymin>195</ymin>
+			<xmax>1075</xmax>
+			<ymax>511</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101232304100/Gery Snack &amp; Sereal -100g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1083</xmin>
+			<ymin>166</ymin>
+			<xmax>1328</xmax>
+			<ymax>498</ymax>
 		</bndbox>
 	</object>
 </annotation>

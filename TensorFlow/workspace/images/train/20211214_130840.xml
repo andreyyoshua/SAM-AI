@@ -204,18 +204,6 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101151201100/Pilus Garuda Premium Pedas 80 + 16 g</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1398</xmin>
-			<ymin>2287</ymin>
-			<xmax>1549</xmax>
-			<ymax>2477</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>90101151604100/Garuda Pilus Mi Goreng 80 + 16 G</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -321,18 +309,6 @@
 			<ymin>2887</ymin>
 			<xmax>1657</xmax>
 			<ymax>3134</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101111302100/Atom Pedas Garuda -100g</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>72</xmin>
-			<ymin>2880</ymin>
-			<xmax>219</xmax>
-			<ymax>3088</ymax>
 		</bndbox>
 	</object>
 	<object>

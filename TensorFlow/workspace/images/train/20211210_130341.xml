@@ -125,10 +125,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>7</xmin>
+			<xmin>2</xmin>
 			<ymin>923</ymin>
-			<xmax>249</xmax>
-			<ymax>1329</ymax>
+			<xmax>260</xmax>
+			<ymax>1351</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -137,46 +137,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>616</xmin>
-			<ymin>679</ymin>
-			<xmax>891</xmax>
-			<ymax>946</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101151404200/Garuda Pilus Rasa Sapi Panggang -56g</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>343</xmin>
-			<ymin>677</ymin>
-			<xmax>618</xmax>
-			<ymax>944</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101151404200/Garuda Pilus Rasa Sapi Panggang -56g</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>81</xmin>
-			<ymin>668</ymin>
-			<xmax>356</xmax>
-			<ymax>935</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101151604100/Garuda Pilus Mi Goreng 80 + 16 G</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1</xmin>
-			<ymin>1478</ymin>
-			<xmax>142</xmax>
-			<ymax>1807</ymax>
+			<xmin>618</xmin>
+			<ymin>688</ymin>
+			<xmax>874</xmax>
+			<ymax>954</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -314,18 +278,6 @@
 	<object>
 		<name>90101111615100/Garuda Rosta Wagyu Beef -100g</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1</xmin>
-			<ymin>2768</ymin>
-			<xmax>246</xmax>
-			<ymax>3049</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101111615100/Garuda Rosta Wagyu Beef -100g</name>
-		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
@@ -333,18 +285,6 @@
 			<ymin>2812</ymin>
 			<xmax>702</xmax>
 			<ymax>3047</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101111301100/Atom Pedas Garuda -230g</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1632</xmin>
-			<ymin>3251</ymin>
-			<xmax>1800</xmax>
-			<ymax>3574</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -405,18 +345,6 @@
 			<ymin>3196</ymin>
 			<xmax>428</xmax>
 			<ymax>3452</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101111701100/Telur Garuda -220g</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>24</xmin>
-			<ymin>3183</ymin>
-			<xmax>226</xmax>
-			<ymax>3439</ymax>
 		</bndbox>
 	</object>
 </annotation>

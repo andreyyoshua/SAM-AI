@@ -17,22 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2384</xmin>
+			<xmin>2386</xmin>
 			<ymin>589</ymin>
-			<xmax>2587</xmax>
+			<xmax>2589</xmax>
 			<ymax>858</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>90101112103100/Garing Garuda -200g</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2082</xmin>
-			<ymin>529</ymin>
-			<xmax>2285</xmax>
-			<ymax>798</ymax>
 		</bndbox>
 	</object>
 </annotation>

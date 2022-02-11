@@ -635,4 +635,28 @@
 			<ymax>2833</ymax>
 		</bndbox>
 	</object>
+	<object>
+		<name>90101225212101/Gery Saluut Malkist Matcha 100gr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1515</xmin>
+			<ymin>2623</ymin>
+			<xmax>1642</xmax>
+			<ymax>2701</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225212101/Gery Saluut Malkist Matcha 100gr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1520</xmin>
+			<ymin>2525</ymin>
+			<xmax>1648</xmax>
+			<ymax>2612</ymax>
+		</bndbox>
+	</object>
 </annotation>

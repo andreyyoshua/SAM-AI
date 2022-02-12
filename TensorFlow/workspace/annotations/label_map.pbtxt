@@ -1,0 +1,284 @@
+item { 
+	name:'90101111202100'
+	id:1
+}
+item { 
+	name:'90101111202100/Garuda Atom Original - 115g + 23 g'
+	id:2
+}
+item { 
+	name:'90101111301100/Atom Pedas Garuda -230g'
+	id:3
+}
+item { 
+	name:'90101111302100/ Atom Pedas Garuda -100g'
+	id:4
+}
+item { 
+	name:'90101111302100/Atom Pedas Garuda -100g'
+	id:5
+}
+item { 
+	name:'90101111607100'
+	id:6
+}
+item { 
+	name:'90101111607100/Garuda Rosta Kacang Oven Rs Bawang'
+	id:7
+}
+item { 
+	name:'90101111611100/Garuda Rosta Kacang Pedas Rs Pedas -70g/95g'
+	id:8
+}
+item { 
+	name:'90101111615100/Garuda Rosta Wagyu Beef -100g'
+	id:9
+}
+item { 
+	name:'90101111617100'
+	id:10
+}
+item { 
+	name:'90101111701100/Telur Garuda -220g'
+	id:11
+}
+item { 
+	name:'90101111702100/Telur Garuda -110g'
+	id:12
+}
+item { 
+	name:'90101112101100/Garing Garuda -750g'
+	id:13
+}
+item { 
+	name:'90101112102100'
+	id:14
+}
+item { 
+	name:'90101112102100/Garing Garuda -375g'
+	id:15
+}
+item { 
+	name:'90101112102100/Garing Garuda 750g'
+	id:16
+}
+item { 
+	name:'90101112103100/Garing Garuda -200g'
+	id:17
+}
+item { 
+	name:'90101112113100'
+	id:18
+}
+item { 
+	name:'90101112113100/Garuda Kacang Kulit Premium -155g'
+	id:19
+}
+item { 
+	name:'90101112201100/Garuda Kc. Bawang 190G/210G'
+	id:20
+}
+item { 
+	name:'90101112202100/Garing Rasa Bawang -90g'
+	id:21
+}
+item { 
+	name:'90101112202100Garing Rasa Bawang -90g'
+	id:22
+}
+item { 
+	name:'90101151201100/Pilus Garuda Premium Pedas 80 + 16 g'
+	id:23
+}
+item { 
+	name:'90101151204200'
+	id:24
+}
+item { 
+	name:'90101151402100/ Snack Pilus Sapi Panggang 80 + 16 g'
+	id:25
+}
+item { 
+	name:'90101151402100/Snack Pilus Sapi Panggang 80 + 16 g'
+	id:26
+}
+item { 
+	name:'90101151404200/Garuda Pilus Rasa Sapi Panggang -56g'
+	id:27
+}
+item { 
+	name:'90101151604100'
+	id:28
+}
+item { 
+	name:'90101151604100/Garuda Pilus Mi Goreng 80 + 16 G'
+	id:29
+}
+item { 
+	name:'90101154204100'
+	id:30
+}
+item { 
+	name:'90101154205100/Garuda Crunchy Potato Daging Sapi BBQ 60g'
+	id:31
+}
+item { 
+	name:'90101163101100/Gery Snack & Sereal Bantal Extrude 29 g'
+	id:32
+}
+item { 
+	name:'90101163104100/Gery Sn.Bantal Extrude Keju -25g'
+	id:33
+}
+item { 
+	name:'90101225202100/Gery Salut Mlkst Keju F.Pack-110g'
+	id:34
+}
+item { 
+	name:'90101225202100/Gery Saluut Malkist Coklat Family Pack -110g'
+	id:35
+}
+item { 
+	name:'90101225202101/Gery Saluut MlkstCklt F.Pack-110g'
+	id:36
+}
+item { 
+	name:'90101225205100'
+	id:37
+}
+item { 
+	name:'90101225205100/Gery Saluut Malkist Sweet Cheese -110g'
+	id:38
+}
+item { 
+	name:'90101225205101/Gery Salut Mlkst Keju F.Pack-110g'
+	id:39
+}
+item { 
+	name:'90101225209100'
+	id:40
+}
+item { 
+	name:'90101225209100/Gery Saluut Malkist Kelapa Family Pack -105g'
+	id:41
+}
+item { 
+	name:'90101225209100/Gery Saluut MlkstCklt Kelapa-105g'
+	id:42
+}
+item { 
+	name:'90101225209101/Gery Salut MlkstKlapa F.Pack -105 gr'
+	id:43
+}
+item { 
+	name:'90101225212100'
+	id:44
+}
+item { 
+	name:'90101225212100/Gery Malkist GreenTea F.Pack -110g'
+	id:45
+}
+item { 
+	name:'90101225212101/Gery Saluut Malkist Matcha 100gr'
+	id:46
+}
+item { 
+	name:'90101225218101'
+	id:47
+}
+item { 
+	name:'90101225218101/Gery Saluut MlkstCklt Kelapa-105g'
+	id:48
+}
+item { 
+	name:'90101225226101/Gery Malkist Saluut Abon - 105 Gr'
+	id:49
+}
+item { 
+	name:'90101232211100/DILAN Choco Crunchy C.Pouch 9.5g'
+	id:50
+}
+item { 
+	name:'90101232304100/Gery Snack & Sereal -100g'
+	id:51
+}
+item { 
+	name:'Bin Rice Cracker - Onion Flavour'
+	id:52
+}
+item { 
+	name:'Bin Rice Cracker - Scsame Flavour'
+	id:53
+}
+item { 
+	name:'Fantastic - Barbeque'
+	id:54
+}
+item { 
+	name:'Fantastic - Honey & Soy'
+	id:55
+}
+item { 
+	name:'Fantastic - Original'
+	id:56
+}
+item { 
+	name:'Fantastic - Seaweed'
+	id:57
+}
+item { 
+	name:'Garuda Kacang Kulit 405 gram'
+	id:58
+}
+item { 
+	name:'Kong Guan - Sugar Puff'
+	id:59
+}
+item { 
+	name:'Nissin Cream Crackers (Special Edition) - Light Crispy Goodness'
+	id:60
+}
+item { 
+	name:'Nissin Vegetable Crackers - Krekers Sayuran'
+	id:61
+}
+item { 
+	name:'Roma Malkist - Abon'
+	id:62
+}
+item { 
+	name:'Roma Malkist - Coklat'
+	id:63
+}
+item { 
+	name:'Roma Malkist - Cppuccino'
+	id:64
+}
+item { 
+	name:'Roma Malkist - Crackers'
+	id:65
+}
+item { 
+	name:'Roma Malkist - Cream Crackers'
+	id:66
+}
+item { 
+	name:'Roma Malkist - Keju Manis'
+	id:67
+}
+item { 
+	name:'Ryvita - Dark Rye'
+	id:68
+}
+item { 
+	name:'Ryvita - The Original'
+	id:69
+}
+item { 
+	name:'id not found/Gery Malkist Saluut Double Abon - 105 Gr'
+	id:70
+}
+item { 
+	name:'id tidak ada/Gery Malkist Saluut Double Abon - 105 Gr'
+	id:71
+}

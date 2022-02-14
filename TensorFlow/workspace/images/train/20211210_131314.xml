@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>90101225202100/Gery Saluut Malkist Coklat Family Pack -110g</name>
+		<name>90101225202100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225205100/Gery Saluut Malkist Sweet Cheese -110g</name>
+		<name>90101225205100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -36,7 +36,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225212100/Gery Malkist GreenTea F.Pack -110g</name>
+		<name>90101225212100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -48,7 +48,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225202100/Gery Saluut Malkist Coklat Family Pack -110g</name>
+		<name>90101225202100</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
@@ -60,7 +60,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225202100/Gery Saluut Malkist Coklat Family Pack -110g</name>
+		<name>90101225202100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -72,7 +72,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225202100/Gery Saluut Malkist Coklat Family Pack -110g</name>
+		<name>90101225202100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -84,7 +84,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225202100/Gery Saluut Malkist Coklat Family Pack -110g</name>
+		<name>90101225202100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -96,7 +96,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225202100/Gery Saluut Malkist Coklat Family Pack -110g</name>
+		<name>90101225202100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -108,7 +108,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225202100/Gery Saluut Malkist Coklat Family Pack -110g</name>
+		<name>90101225202100</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
@@ -120,7 +120,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225202100/Gery Saluut Malkist Coklat Family Pack -110g</name>
+		<name>90101225202100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -132,7 +132,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225202100/Gery Saluut Malkist Coklat Family Pack -110g</name>
+		<name>90101225202100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -144,7 +144,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225202100/Gery Saluut Malkist Coklat Family Pack -110g</name>
+		<name>90101225202100</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
@@ -156,7 +156,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225202100/Gery Saluut Malkist Coklat Family Pack -110g</name>
+		<name>90101225202100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -168,7 +168,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225202100/Gery Saluut Malkist Coklat Family Pack -110g</name>
+		<name>90101225202100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -180,7 +180,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225205100/Gery Saluut Malkist Sweet Cheese -110g</name>
+		<name>90101225205100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -192,7 +192,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225205100/Gery Saluut Malkist Sweet Cheese -110g</name>
+		<name>90101225205100</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
@@ -204,7 +204,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225205100/Gery Saluut Malkist Sweet Cheese -110g</name>
+		<name>90101225205100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -216,7 +216,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225205100/Gery Saluut Malkist Sweet Cheese -110g</name>
+		<name>90101225205100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -228,7 +228,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225205100/Gery Saluut Malkist Sweet Cheese -110g</name>
+		<name>90101225205100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -240,7 +240,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225205100/Gery Saluut Malkist Sweet Cheese -110g</name>
+		<name>90101225205100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -252,7 +252,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225205100/Gery Saluut Malkist Sweet Cheese -110g</name>
+		<name>90101225205100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -264,7 +264,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225205100/Gery Saluut Malkist Sweet Cheese -110g</name>
+		<name>90101225205100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -276,7 +276,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225205100/Gery Saluut Malkist Sweet Cheese -110g</name>
+		<name>90101225205100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -288,7 +288,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225205100/Gery Saluut Malkist Sweet Cheese -110g</name>
+		<name>90101225205100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -300,7 +300,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225205100/Gery Saluut Malkist Sweet Cheese -110g</name>
+		<name>90101225205100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -312,7 +312,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225212100/Gery Malkist GreenTea F.Pack -110g</name>
+		<name>90101225212100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -324,7 +324,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225212100/Gery Malkist GreenTea F.Pack -110g</name>
+		<name>90101225212100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -336,7 +336,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225212100/Gery Malkist GreenTea F.Pack -110g</name>
+		<name>90101225212100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -348,7 +348,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225212100/Gery Malkist GreenTea F.Pack -110g</name>
+		<name>90101225212100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -360,7 +360,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225212100/Gery Malkist GreenTea F.Pack -110g</name>
+		<name>90101225212100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -372,7 +372,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225212100/Gery Malkist GreenTea F.Pack -110g</name>
+		<name>90101225212100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -384,7 +384,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225212100/Gery Malkist GreenTea F.Pack -110g</name>
+		<name>90101225212100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -396,7 +396,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225212100/Gery Malkist GreenTea F.Pack -110g</name>
+		<name>90101225212100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -405,6 +405,78 @@
 			<ymin>1986</ymin>
 			<xmax>555</xmax>
 			<ymax>2164</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NissinGoldenMalkistChocolate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>2947</ymin>
+			<xmax>611</xmax>
+			<ymax>3202</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NissinGoldenMalkistChocolate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>631</xmin>
+			<ymin>2966</ymin>
+			<xmax>1164</xmax>
+			<ymax>3217</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NissinGoldenMalkistChocolate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>3200</ymin>
+			<xmax>624</xmax>
+			<ymax>3417</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NissinGoldenMalkistChocolate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>662</xmin>
+			<ymin>3221</ymin>
+			<xmax>1145</xmax>
+			<ymax>3422</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>CheeseSnack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1156</xmin>
+			<ymin>3002</ymin>
+			<xmax>1417</xmax>
+			<ymax>3400</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>CheeseSnack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1439</xmin>
+			<ymin>2977</ymin>
+			<xmax>1741</xmax>
+			<ymax>3409</ymax>
 		</bndbox>
 	</object>
 </annotation>

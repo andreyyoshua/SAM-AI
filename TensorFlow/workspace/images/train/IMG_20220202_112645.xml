@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>90101111615100/Garuda Rosta Wagyu Beef -100g</name>
+		<name>90101111615100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111615100/Garuda Rosta Wagyu Beef -100g</name>
+		<name>90101111615100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -33,6 +33,126 @@
 			<ymin>768</ymin>
 			<xmax>3646</xmax>
 			<ymax>1252</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>KacangSukroOvenBawang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1990</xmin>
+			<ymin>681</ymin>
+			<xmax>2323</xmax>
+			<ymax>1190</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>KacangSukroOvenBawang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2328</xmin>
+			<ymin>685</ymin>
+			<xmax>2732</xmax>
+			<ymax>1223</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mr.PHoneyRoastedPeanuts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>960</xmin>
+			<ymin>596</ymin>
+			<xmax>1226</xmax>
+			<ymax>1144</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>KacangSukroOriginal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1620</xmin>
+			<ymin>1396</ymin>
+			<xmax>1926</xmax>
+			<ymax>1817</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>KacangSukroOriginal</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1908</xmin>
+			<ymin>1471</ymin>
+			<xmax>2284</xmax>
+			<ymax>1892</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>IndomaretKacangAtom</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>760</xmin>
+			<ymin>1375</ymin>
+			<xmax>1038</xmax>
+			<ymax>1766</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>IndomaretKacangAtom</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1049</xmin>
+			<ymin>1373</ymin>
+			<xmax>1327</xmax>
+			<ymax>1764</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>IndomaretKacangAtom</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1293</xmin>
+			<ymin>1362</ymin>
+			<xmax>1610</xmax>
+			<ymax>1826</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>KacangSukroBBQ</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2320</xmin>
+			<ymin>1456</ymin>
+			<xmax>2669</xmax>
+			<ymax>1884</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>KacangSukroKedele</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2690</xmin>
+			<ymin>1490</ymin>
+			<xmax>3075</xmax>
+			<ymax>1890</ymax>
 		</bndbox>
 	</object>
 </annotation>

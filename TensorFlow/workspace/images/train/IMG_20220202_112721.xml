@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>90101151201100/Pilus Garuda Premium Pedas 80 + 16 g</name>
+		<name>90101151201100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101151604100/Garuda Pilus Mi Goreng 80 + 16 G</name>
+		<name>90101151604100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -36,7 +36,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111702100/Telur Garuda -110g</name>
+		<name>90101111702100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -60,7 +60,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101112103100/Garing Garuda -200g</name>
+		<name>90101112103100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -69,6 +69,78 @@
 			<ymin>1348</ymin>
 			<xmax>1747</xmax>
 			<ymax>1704</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>TicTacMix</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1657</xmin>
+			<ymin>405</ymin>
+			<xmax>1978</xmax>
+			<ymax>835</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>TicTacMix</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1161</xmin>
+			<ymin>522</ymin>
+			<xmax>1408</xmax>
+			<ymax>860</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>TicTacSapiPanggang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1411</xmin>
+			<ymin>466</ymin>
+			<xmax>1681</xmax>
+			<ymax>847</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>MayasiPedas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1740</xmin>
+			<ymin>948</ymin>
+			<xmax>2019</xmax>
+			<ymax>1278</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>KacangSangraiDuaKelinci</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2023</xmin>
+			<ymin>1371</ymin>
+			<xmax>2312</xmax>
+			<ymax>1804</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>KacangKoroIndomaret</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1470</xmin>
+			<ymin>966</ymin>
+			<xmax>1753</xmax>
+			<ymax>1278</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -12,19 +12,19 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>90101151604100/Garuda Pilus Mi Goreng 80 + 16 G</name>
+		<name>90101151604100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2066</xmin>
+			<xmin>2068</xmin>
 			<ymin>875</ymin>
-			<xmax>2363</xmax>
+			<xmax>2365</xmax>
 			<ymax>1309</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>90101151402100/Snack Pilus Sapi Panggang 80 + 16 g</name>
+		<name>90101151402100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -33,6 +33,66 @@
 			<ymin>811</ymin>
 			<xmax>2049</xmax>
 			<ymax>1075</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>CemCemBalado</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2212</xmin>
+			<ymin>1289</ymin>
+			<xmax>2523</xmax>
+			<ymax>1671</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>CemCemBalado</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1969</xmin>
+			<ymin>1462</ymin>
+			<xmax>2220</xmax>
+			<ymax>1822</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>KacangDuaKelinciOriginal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3366</xmin>
+			<ymin>1321</ymin>
+			<xmax>3617</xmax>
+			<ymax>1619</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>TicTacAyamBawang</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1966</xmin>
+			<ymin>1</ymin>
+			<xmax>2269</xmax>
+			<ymax>271</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>TicTacAyamBawang</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2274</xmin>
+			<ymin>1</ymin>
+			<xmax>2577</xmax>
+			<ymax>271</ymax>
 		</bndbox>
 	</object>
 </annotation>

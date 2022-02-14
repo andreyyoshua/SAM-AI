@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>90101151402100/ Snack Pilus Sapi Panggang 80 + 16 g</name>
+		<name>90101151402100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101151201100/Pilus Garuda Premium Pedas 80 + 16 g</name>
+		<name>90101151201100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -36,7 +36,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111615100/Garuda Rosta Wagyu Beef -100g</name>
+		<name>90101111615100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -48,7 +48,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101151604100/Garuda Pilus Mi Goreng 80 + 16 G</name>
+		<name>90101151604100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -60,7 +60,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111202100/Garuda Atom Original - 115g + 23 g</name>
+		<name>90101111202100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -72,7 +72,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111302100/ Atom Pedas Garuda -100g</name>
+		<name>90101111302100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -84,7 +84,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111301100/Atom Pedas Garuda -230g</name>
+		<name>90101111301100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -96,7 +96,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101112113100/Garuda Kacang Kulit Premium -155g</name>
+		<name>90101112113100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -108,7 +108,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101112202100Garing Rasa Bawang -90g</name>
+		<name>90101112202100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -120,7 +120,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101112201100/Garuda Kc. Bawang 190G/210G</name>
+		<name>90101112201100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -132,7 +132,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101151402100/ Snack Pilus Sapi Panggang 80 + 16 g</name>
+		<name>90101151402100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -144,7 +144,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101151402100/ Snack Pilus Sapi Panggang 80 + 16 g</name>
+		<name>90101151402100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -156,7 +156,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101151604100/Garuda Pilus Mi Goreng 80 + 16 G</name>
+		<name>90101151604100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -168,7 +168,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101151201100/Pilus Garuda Premium Pedas 80 + 16 g</name>
+		<name>90101151201100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -180,7 +180,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101151201100/Pilus Garuda Premium Pedas 80 + 16 g</name>
+		<name>90101151201100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -192,7 +192,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101151201100/Pilus Garuda Premium Pedas 80 + 16 g</name>
+		<name>90101151201100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -204,7 +204,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111701100/Telur Garuda -220g</name>
+		<name>90101111701100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -216,7 +216,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111701100/Telur Garuda -220g</name>
+		<name>90101111701100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -228,7 +228,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111615100/Garuda Rosta Wagyu Beef -100g</name>
+		<name>90101111615100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -240,7 +240,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111615100/Garuda Rosta Wagyu Beef -100g</name>
+		<name>90101111615100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -252,7 +252,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111615100/Garuda Rosta Wagyu Beef -100g</name>
+		<name>90101111615100</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
@@ -264,7 +264,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111615100/Garuda Rosta Wagyu Beef -100g</name>
+		<name>90101111615100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -276,7 +276,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111615100/Garuda Rosta Wagyu Beef -100g</name>
+		<name>90101111615100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -288,7 +288,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111615100/Garuda Rosta Wagyu Beef -100g</name>
+		<name>90101111615100</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
@@ -300,7 +300,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111202100/Garuda Atom Original - 115g + 23 g</name>
+		<name>90101111202100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -312,7 +312,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111202100/Garuda Atom Original - 115g + 23 g</name>
+		<name>90101111202100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -324,7 +324,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111202100/Garuda Atom Original - 115g + 23 g</name>
+		<name>90101111202100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -336,7 +336,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111202100/Garuda Atom Original - 115g + 23 g</name>
+		<name>90101111202100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -348,7 +348,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101112201100/Garuda Kc. Bawang 190G/210G</name>
+		<name>90101112201100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -360,7 +360,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101112201100/Garuda Kc. Bawang 190G/210G</name>
+		<name>90101112201100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -372,7 +372,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101112113100/Garuda Kacang Kulit Premium -155g</name>
+		<name>90101112113100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -384,7 +384,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101112113100/Garuda Kacang Kulit Premium -155g</name>
+		<name>90101112113100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -396,7 +396,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101112102100/Garing Garuda 750g</name>
+		<name>90101112102100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -408,7 +408,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101112102100/Garing Garuda 750g</name>
+		<name>90101112102100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -420,7 +420,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101112113100/Garuda Kacang Kulit Premium -155g</name>
+		<name>90101112113100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -432,7 +432,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101112113100/Garuda Kacang Kulit Premium -155g</name>
+		<name>90101112113100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -444,7 +444,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101112113100/Garuda Kacang Kulit Premium -155g</name>
+		<name>90101112113100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -456,7 +456,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101151201100/Pilus Garuda Premium Pedas 80 + 16 g</name>
+		<name>90101151201100</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>

@@ -1,4 +1,4 @@
-<annotation>
+<annotation verified="yes">
 	<folder>train</folder>
 	<filename>20211214_130832.jpg</filename>
 	<path>C:\PKL\SAM-AI\TensorFlow\workspace\images\train\20211214_130832.jpg</path>
@@ -12,19 +12,19 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>90101111202100/Garuda Atom Original - 115g + 23 g</name>
+		<name>90101111202100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1037</xmin>
+			<xmin>1031</xmin>
 			<ymin>1998</ymin>
-			<xmax>1194</xmax>
+			<xmax>1188</xmax>
 			<ymax>2200</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111615100/Garuda Rosta Wagyu Beef -100g</name>
+		<name>90101111615100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -36,19 +36,19 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111301100/Atom Pedas Garuda -230g</name>
+		<name>90101111301100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>852</xmin>
-			<ymin>2845</ymin>
-			<xmax>1013</xmax>
-			<ymax>3100</ymax>
+			<xmin>677</xmin>
+			<ymin>2865</ymin>
+			<xmax>840</xmax>
+			<ymax>3117</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111302100/Atom Pedas Garuda -100g</name>
+		<name>90101111302100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -60,7 +60,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111202100/Garuda Atom Original - 115g + 23 g</name>
+		<name>90101111202100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -72,7 +72,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111202100/Garuda Atom Original - 115g + 23 g</name>
+		<name>90101111202100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -84,7 +84,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111202100/Garuda Atom Original - 115g + 23 g</name>
+		<name>90101111202100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -96,7 +96,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111202100/Garuda Atom Original - 115g + 23 g</name>
+		<name>90101111202100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -108,7 +108,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111202100/Garuda Atom Original - 115g + 23 g</name>
+		<name>90101111202100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -120,7 +120,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111202100/Garuda Atom Original - 115g + 23 g</name>
+		<name>90101111202100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -132,19 +132,19 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111202100/Garuda Atom Original - 115g + 23 g</name>
+		<name>90101111202100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1078</xmin>
-			<ymin>1485</ymin>
-			<xmax>1234</xmax>
-			<ymax>1667</ymax>
+			<xmin>1082</xmin>
+			<ymin>1486</ymin>
+			<xmax>1238</xmax>
+			<ymax>1668</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111202100/Garuda Atom Original - 115g + 23 g</name>
+		<name>90101111202100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -156,7 +156,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111202100/Garuda Atom Original - 115g + 23 g</name>
+		<name>90101111202100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -168,7 +168,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111615100/Garuda Rosta Wagyu Beef -100g</name>
+		<name>90101111615100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -180,7 +180,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111615100/Garuda Rosta Wagyu Beef -100g</name>
+		<name>90101111615100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -192,7 +192,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111615100/Garuda Rosta Wagyu Beef -100g</name>
+		<name>90101111615100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -204,7 +204,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111615100/Garuda Rosta Wagyu Beef -100g</name>
+		<name>90101111615100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -216,7 +216,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111615100/Garuda Rosta Wagyu Beef -100g</name>
+		<name>90101111615100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -228,19 +228,19 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111301100/Atom Pedas Garuda -230g</name>
+		<name>90101111301100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>679</xmin>
-			<ymin>2873</ymin>
-			<xmax>844</xmax>
-			<ymax>3112</ymax>
+			<xmin>855</xmin>
+			<ymin>2862</ymin>
+			<xmax>1020</xmax>
+			<ymax>3101</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111301100/Atom Pedas Garuda -230g</name>
+		<name>90101111301100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -252,7 +252,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111301100/Atom Pedas Garuda -230g</name>
+		<name>90101111301100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -264,7 +264,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111301100/Atom Pedas Garuda -230g</name>
+		<name>90101111301100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -276,7 +276,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111302100/Atom Pedas Garuda -100g</name>
+		<name>90101111302100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -288,7 +288,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101111615100/Garuda Rosta Wagyu Beef -100g</name>
+		<name>90101111615100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -297,6 +297,642 @@
 			<ymin>2283</ymin>
 			<xmax>1336</xmax>
 			<ymax>2455</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciKacangShanghaiOriginal225g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>323</xmin>
+			<ymin>2908</ymin>
+			<xmax>474</xmax>
+			<ymax>3115</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciKacangShanghaiOriginal225g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>2932</ymin>
+			<xmax>322</xmax>
+			<ymax>3101</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciKacangShanghaiOriginal225g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>2924</ymin>
+			<xmax>183</xmax>
+			<ymax>3107</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mr.PKacangAtomOriginal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1355</xmin>
+			<ymin>2580</ymin>
+			<xmax>1520</xmax>
+			<ymax>2772</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mr.PKacangAtomOriginal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1504</xmin>
+			<ymin>2578</ymin>
+			<xmax>1656</xmax>
+			<ymax>2774</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciTicTacRasaPedas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1503</xmin>
+			<ymin>2274</ymin>
+			<xmax>1661</xmax>
+			<ymax>2472</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciTicTacRasaPedas</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1669</xmin>
+			<ymin>2285</ymin>
+			<xmax>1800</xmax>
+			<ymax>2472</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciTicTacOriginal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1611</xmin>
+			<ymin>2017</ymin>
+			<xmax>1769</xmax>
+			<ymax>2213</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciKacangKoroPedas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1369</xmin>
+			<ymin>1801</ymin>
+			<xmax>1490</xmax>
+			<ymax>1946</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciKacangPolongOriginalFlavor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1636</xmin>
+			<ymin>1540</ymin>
+			<xmax>1762</xmax>
+			<ymax>1696</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciKacangPolongOriginalFlavor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1500</xmin>
+			<ymin>1558</ymin>
+			<xmax>1615</xmax>
+			<ymax>1689</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciKacangPolongOriginalFlavor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1383</xmin>
+			<ymin>1550</ymin>
+			<xmax>1500</xmax>
+			<ymax>1686</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciKacangCampur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1404</xmin>
+			<ymin>1273</ymin>
+			<xmax>1535</xmax>
+			<ymax>1431</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciKacangLofet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1661</xmin>
+			<ymin>1033</ymin>
+			<xmax>1780</xmax>
+			<ymax>1195</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciKacangSukroOriginal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1108</xmin>
+			<ymin>1241</ymin>
+			<xmax>1256</xmax>
+			<ymax>1415</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciKacangSukroOriginal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>962</xmin>
+			<ymin>1225</ymin>
+			<xmax>1105</xmax>
+			<ymax>1410</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciKacangSukroOriginal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>817</xmin>
+			<ymin>1219</ymin>
+			<xmax>972</xmax>
+			<ymax>1414</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciKacangSukroOriginal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>661</xmin>
+			<ymin>1211</ymin>
+			<xmax>812</xmax>
+			<ymax>1403</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciKacangSukroOriginal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>368</xmin>
+			<ymin>1249</ymin>
+			<xmax>503</xmax>
+			<ymax>1390</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciKacangSukroOriginal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>1215</ymin>
+			<xmax>335</xmax>
+			<ymax>1385</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciKacangSukroOriginal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>1206</ymin>
+			<xmax>192</xmax>
+			<ymax>1379</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciKacangSukroOriginal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1261</xmin>
+			<ymin>1233</ymin>
+			<xmax>1408</xmax>
+			<ymax>1420</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciKacangLofet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1419</xmin>
+			<ymin>1013</ymin>
+			<xmax>1542</xmax>
+			<ymax>1181</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciKacangSukroOriginal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1269</xmin>
+			<ymin>1034</ymin>
+			<xmax>1417</xmax>
+			<ymax>1177</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciKacangSukroOriginal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1149</xmin>
+			<ymin>1015</ymin>
+			<xmax>1269</xmax>
+			<ymax>1168</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciKacangSukroOriginal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1008</xmin>
+			<ymin>1009</ymin>
+			<xmax>1149</xmax>
+			<ymax>1166</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciKacangSukroOriginal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>853</xmin>
+			<ymin>950</ymin>
+			<xmax>1009</xmax>
+			<ymax>1164</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciKacangSukroOriginal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>565</xmin>
+			<ymin>975</ymin>
+			<xmax>718</xmax>
+			<ymax>1149</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciKacangSukroOriginal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>432</xmin>
+			<ymin>954</ymin>
+			<xmax>574</xmax>
+			<ymax>1148</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101111615100</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>568</xmin>
+			<ymin>2265</ymin>
+			<xmax>720</xmax>
+			<ymax>2417</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciKacangSukroOriginal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>965</ymin>
+			<xmax>299</xmax>
+			<ymax>1134</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciSukroOvenRasaBawang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>1469</ymin>
+			<xmax>216</xmax>
+			<ymax>1641</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciSukroOvenRasaBawang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>376</xmin>
+			<ymin>1460</ymin>
+			<xmax>512</xmax>
+			<ymax>1649</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciSukroOvenRasaBawang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>226</xmin>
+			<ymin>1463</ymin>
+			<xmax>369</xmax>
+			<ymax>1646</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciSukroOvenRasaJagungBakar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>416</xmin>
+			<ymin>1743</ymin>
+			<xmax>543</xmax>
+			<ymax>1916</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciSukroOvenRasaJagungBakar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>1706</ymin>
+			<xmax>282</xmax>
+			<ymax>1912</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciSukroOvenRasaJagungBakar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>283</xmin>
+			<ymin>1733</ymin>
+			<xmax>417</xmax>
+			<ymax>1912</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciSukroOvenRasaJagungBakar</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1714</ymin>
+			<xmax>124</xmax>
+			<ymax>1903</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciSukroBBQ</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>326</xmin>
+			<ymin>1980</ymin>
+			<xmax>482</xmax>
+			<ymax>2180</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciSukroBBQ</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>1971</ymin>
+			<xmax>335</xmax>
+			<ymax>2169</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciSukroBBQ</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>1992</ymin>
+			<xmax>187</xmax>
+			<ymax>2170</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciSukroPolong</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>243</xmin>
+			<ymin>2256</ymin>
+			<xmax>388</xmax>
+			<ymax>2435</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciSukroPolong</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>401</xmin>
+			<ymin>2263</ymin>
+			<xmax>546</xmax>
+			<ymax>2436</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciSukroKribo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>2256</ymin>
+			<xmax>232</xmax>
+			<ymax>2439</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciKacangShanghaiOriginal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>2564</ymin>
+			<xmax>190</xmax>
+			<ymax>2726</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciKacangSukroOriginal</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>952</ymin>
+			<xmax>140</xmax>
+			<ymax>1126</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mr.PKacangAtomPedas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1657</xmin>
+			<ymin>2593</ymin>
+			<xmax>1773</xmax>
+			<ymax>2780</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciKacangSukroOriginal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>515</xmin>
+			<ymin>1246</ymin>
+			<xmax>663</xmax>
+			<ymax>1394</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DuaKelinciSukroOvenRasaBawang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>509</xmin>
+			<ymin>1466</ymin>
+			<xmax>645</xmax>
+			<ymax>1655</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101111202100</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1214</xmin>
+			<ymin>1746</ymin>
+			<xmax>1357</xmax>
+			<ymax>1947</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101111202100</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>952</xmin>
+			<ymin>1764</ymin>
+			<xmax>1077</xmax>
+			<ymax>1934</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101111202100</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>752</xmin>
+			<ymin>2008</ymin>
+			<xmax>923</xmax>
+			<ymax>2199</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101111202100</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>902</xmin>
+			<ymin>2014</ymin>
+			<xmax>1035</xmax>
+			<ymax>2198</ymax>
 		</bndbox>
 	</object>
 </annotation>

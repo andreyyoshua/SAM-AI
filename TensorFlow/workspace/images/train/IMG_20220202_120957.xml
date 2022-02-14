@@ -12,43 +12,43 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>90101225202100/Gery Saluut Malkist Coklat Family Pack -110g</name>
+		<name>90101225202100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1186</xmin>
-			<ymin>410</ymin>
+			<ymin>408</ymin>
 			<xmax>1462</xmax>
-			<ymax>570</ymax>
+			<ymax>568</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225209100/Gery Saluut Malkist Kelapa Family Pack -105g</name>
+		<name>90101225209100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2215</xmin>
+			<xmin>2216</xmin>
 			<ymin>276</ymin>
-			<xmax>2458</xmax>
+			<xmax>2459</xmax>
 			<ymax>419</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225218101/Gery Saluut MlkstCklt Kelapa-105g</name>
+		<name>90101225218101</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2763</xmin>
+			<xmin>2761</xmin>
 			<ymin>123</ymin>
 			<xmax>3049</xmax>
-			<ymax>282</ymax>
+			<ymax>277</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225202100/Gery Saluut Malkist Coklat Family Pack -110g</name>
+		<name>90101225202100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -60,7 +60,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225202100/Gery Saluut Malkist Coklat Family Pack -110g</name>
+		<name>90101225202100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -72,7 +72,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225209100/Gery Saluut Malkist Kelapa Family Pack -105g</name>
+		<name>90101225209100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -84,7 +84,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225209100/Gery Saluut Malkist Kelapa Family Pack -105g</name>
+		<name>90101225209100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -96,7 +96,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225209100/Gery Saluut Malkist Kelapa Family Pack -105g</name>
+		<name>90101225209100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -108,7 +108,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225209100/Gery Saluut Malkist Kelapa Family Pack -105g</name>
+		<name>90101225209100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -120,7 +120,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225209100/Gery Saluut Malkist Kelapa Family Pack -105g</name>
+		<name>90101225209100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -132,7 +132,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225209100/Gery Saluut Malkist Kelapa Family Pack -105g</name>
+		<name>90101225209100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -144,7 +144,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225209100/Gery Saluut Malkist Kelapa Family Pack -105g</name>
+		<name>90101225209100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -156,7 +156,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225218101/Gery Saluut MlkstCklt Kelapa-105g</name>
+		<name>90101225218101</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -165,6 +165,426 @@
 			<ymin>409</ymin>
 			<xmax>1837</xmax>
 			<ymax>575</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>KhongGuanMalkistSalutCokelat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1881</xmin>
+			<ymin>116</ymin>
+			<xmax>2162</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>KhongGuanMalkistSalutCokelat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2203</xmin>
+			<ymin>857</ymin>
+			<xmax>2484</xmax>
+			<ymax>1003</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>KhongGuanMalkistSalutCokelat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2207</xmin>
+			<ymin>1013</ymin>
+			<xmax>2488</xmax>
+			<ymax>1159</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>KhongGuanMalkistSalutCokelat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1887</xmin>
+			<ymin>843</ymin>
+			<xmax>2169</xmax>
+			<ymax>990</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>KhongGuanMalkistSalutCokelat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1890</xmin>
+			<ymin>1010</ymin>
+			<xmax>2147</xmax>
+			<ymax>1156</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225202100</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1583</xmin>
+			<ymin>1005</ymin>
+			<xmax>1879</xmax>
+			<ymax>1154</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>KhongGuanMalkistSalutCokelat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1583</xmin>
+			<ymin>862</ymin>
+			<xmax>1855</xmax>
+			<ymax>994</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NissinGoldenMalkist</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1204</xmin>
+			<ymin>871</ymin>
+			<xmax>1516</xmax>
+			<ymax>1021</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NissinGoldenMalkist</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1184</xmin>
+			<ymin>1019</ymin>
+			<xmax>1503</xmax>
+			<ymax>1165</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>KokolaMalkistSusu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2514</xmin>
+			<ymin>864</ymin>
+			<xmax>2750</xmax>
+			<ymax>1166</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>KokolaCrackersGarlicBread</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2789</xmin>
+			<ymin>864</ymin>
+			<xmax>3138</xmax>
+			<ymax>1018</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>KokolaCrackersGarlicBread</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2777</xmin>
+			<ymin>1021</ymin>
+			<xmax>3125</xmax>
+			<ymax>1168</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistKelapaKopyor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3107</xmin>
+			<ymin>794</ymin>
+			<xmax>3560</xmax>
+			<ymax>909</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistKelapaKopyor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3217</xmin>
+			<ymin>1043</ymin>
+			<xmax>3724</xmax>
+			<ymax>1177</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>MondeEggRollsChineseNewYearPackage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>616</xmin>
+			<ymin>1314</ymin>
+			<xmax>1114</xmax>
+			<ymax>1654</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NissinVegetableCrackers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1530</xmin>
+			<ymin>1526</ymin>
+			<xmax>1808</xmax>
+			<ymax>1690</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NissinVegetableCrackers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1257</xmin>
+			<ymin>1526</ymin>
+			<xmax>1527</xmax>
+			<ymax>1687</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NissinVegetableCrackers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1228</xmin>
+			<ymin>1372</ymin>
+			<xmax>1481</xmax>
+			<ymax>1523</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NissinVegeeBiscuit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1834</xmin>
+			<ymin>1533</ymin>
+			<xmax>2162</xmax>
+			<ymax>1712</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NissinVegeeBiscuit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1833</xmin>
+			<ymin>1410</ymin>
+			<xmax>2164</xmax>
+			<ymax>1525</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>SaltinesVegetableCrackers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2193</xmin>
+			<ymin>1596</ymin>
+			<xmax>2473</xmax>
+			<ymax>1703</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>SaltinesOriginalCrackers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2192</xmin>
+			<ymin>1479</ymin>
+			<xmax>2462</xmax>
+			<ymax>1586</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>SaltinesOriginalCrackers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2581</xmin>
+			<ymin>1599</ymin>
+			<xmax>2862</xmax>
+			<ymax>1700</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>SaltinesOriginalCrackers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2923</xmin>
+			<ymin>1601</ymin>
+			<xmax>3197</xmax>
+			<ymax>1701</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>SaltinesOriginalCrackers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2865</xmin>
+			<ymin>1496</ymin>
+			<xmax>3179</xmax>
+			<ymax>1586</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>SaltinesVegetableCrackers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2895</xmin>
+			<ymin>1379</ymin>
+			<xmax>3175</xmax>
+			<ymax>1486</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>KhongGuanSaltcheeseCrackers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3704</xmin>
+			<ymin>1385</ymin>
+			<xmax>4035</xmax>
+			<ymax>1464</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>KhongGuanSaltcheeseCrackers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3690</xmin>
+			<ymin>1462</ymin>
+			<xmax>4026</xmax>
+			<ymax>1543</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>KhongGuanSaltcheeseCrackers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3823</xmin>
+			<ymin>1617</ymin>
+			<xmax>4167</xmax>
+			<ymax>1694</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>MondeEggRolls</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>606</xmin>
+			<ymin>328</ymin>
+			<xmax>1045</xmax>
+			<ymax>601</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ChoChoWaferRoll</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>505</ymin>
+			<xmax>289</xmax>
+			<ymax>932</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistCokelat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3143</xmin>
+			<ymin>292</ymin>
+			<xmax>3421</xmax>
+			<ymax>446</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistCokelat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3183</xmin>
+			<ymin>451</ymin>
+			<xmax>3457</xmax>
+			<ymax>599</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistCokelat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3516</xmin>
+			<ymin>466</ymin>
+			<xmax>3729</xmax>
+			<ymax>604</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistCreamCrackers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3777</xmin>
+			<ymin>449</ymin>
+			<xmax>4061</xmax>
+			<ymax>603</ymax>
 		</bndbox>
 	</object>
 </annotation>

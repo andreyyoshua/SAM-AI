@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Fantastic - Original</name>
+		<name>FantasticOriginal</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Fantastic - Barbeque</name>
+		<name>FantasticBarbeque</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -36,31 +36,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Fantastic - Honey &amp; Soy</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>872</xmin>
-			<ymin>648</ymin>
-			<xmax>1446</xmax>
-			<ymax>848</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Fantastic - Seaweed</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1447</xmin>
-			<ymin>860</ymin>
-			<xmax>1800</xmax>
-			<ymax>1077</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Bin Rice Cracker - Scsame Flavour</name>
+		<name>BinRiceCrackerScsameFlavour</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -72,19 +48,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Bin Rice Cracker - Onion Flavour</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1441</xmin>
-			<ymin>17</ymin>
-			<xmax>1707</xmax>
-			<ymax>267</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Roma Malkist - Abon</name>
+		<name>Roma MalkistAbon</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -96,7 +60,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Roma Malkist - Cream Crackers</name>
+		<name>Roma MalkistCreamCrackers</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -108,7 +72,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Roma Malkist - Crackers</name>
+		<name>Roma MalkistCrackers</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -120,19 +84,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Roma Malkist - Cppuccino</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1595</xmin>
-			<ymin>1438</ymin>
-			<xmax>1800</xmax>
-			<ymax>1639</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Roma Malkist - Keju Manis</name>
+		<name>RomaMalkistKejuManis</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -144,7 +96,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Roma Malkist - Coklat</name>
+		<name>RomaMalkistCoklat</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -156,7 +108,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225218101/Gery Saluut MlkstCklt Kelapa-105g</name>
+		<name>90101225218101</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -168,7 +120,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225209100/Gery Saluut MlkstCklt Kelapa-105g</name>
+		<name>90101225209100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -180,7 +132,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Nissin Cream Crackers (Special Edition) - Light Crispy Goodness</name>
+		<name>NissinCreamCrackers(Special Edition)LightCrispyGoodness</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -192,7 +144,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Nissin Vegetable Crackers - Krekers Sayuran</name>
+		<name>Nissin VegetableCrackersKrekersSayuran</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -204,7 +156,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Kong Guan - Sugar Puff</name>
+		<name>KongGuanSugarPuff</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -216,7 +168,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Ryvita - Dark Rye</name>
+		<name>RyvitaDark Rye</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -228,7 +180,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Ryvita - The Original</name>
+		<name>RyvitaTheOriginal</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -240,7 +192,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225218101/Gery Saluut MlkstCklt Kelapa-105g</name>
+		<name>90101225218101</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -252,7 +204,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225218101/Gery Saluut MlkstCklt Kelapa-105g</name>
+		<name>90101225218101</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -264,7 +216,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225218101/Gery Saluut MlkstCklt Kelapa-105g</name>
+		<name>90101225218101</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -276,7 +228,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225209100/Gery Saluut MlkstCklt Kelapa-105g</name>
+		<name>90101225209100</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
@@ -288,7 +240,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225209100/Gery Saluut MlkstCklt Kelapa-105g</name>
+		<name>90101225209100</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
@@ -300,7 +252,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225209100/Gery Saluut MlkstCklt Kelapa-105g</name>
+		<name>90101225209100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -312,7 +264,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225209100/Gery Saluut MlkstCklt Kelapa-105g</name>
+		<name>90101225209100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -324,7 +276,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>90101225209100/Gery Saluut MlkstCklt Kelapa-105g</name>
+		<name>90101225209100</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -333,6 +285,366 @@
 			<ymin>2496</ymin>
 			<xmax>1512</xmax>
 			<ymax>2679</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RyvitaTheOriginal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1224</xmin>
+			<ymin>3446</ymin>
+			<xmax>1642</xmax>
+			<ymax>3679</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RyvitaTheOriginal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1210</xmin>
+			<ymin>3256</ymin>
+			<xmax>1638</xmax>
+			<ymax>3440</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RyvitaDark Rye</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>382</xmin>
+			<ymin>3251</ymin>
+			<xmax>810</xmax>
+			<ymax>3454</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Nissin VegetableCrackersKrekersSayuran</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1411</xmin>
+			<ymin>2956</ymin>
+			<xmax>1705</xmax>
+			<ymax>3147</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Nissin VegetableCrackersKrekersSayuran</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1085</xmin>
+			<ymin>2759</ymin>
+			<xmax>1379</xmax>
+			<ymax>2950</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NissinCreamCrackers(Special Edition)LightCrispyGoodness</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>736</xmin>
+			<ymin>2987</ymin>
+			<xmax>1062</xmax>
+			<ymax>3140</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NissinCreamCrackers(Special Edition)LightCrispyGoodness</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>740</xmin>
+			<ymin>2825</ymin>
+			<xmax>1066</xmax>
+			<ymax>2978</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NissinCreamCrackers(Special Edition)LightCrispyGoodness</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>389</xmin>
+			<ymin>2810</ymin>
+			<xmax>715</xmax>
+			<ymax>2963</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NissinCreamCrackers(Special Edition)LightCrispyGoodness</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>2802</ymin>
+			<xmax>373</xmax>
+			<ymax>2955</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NissinCreamCrackers(Special Edition)LightCrispyGoodness</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>2953</ymin>
+			<xmax>365</xmax>
+			<ymax>3106</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistKejuManis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>1990</ymin>
+			<xmax>337</xmax>
+			<ymax>2179</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistKejuManis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>350</xmin>
+			<ymin>1780</ymin>
+			<xmax>655</xmax>
+			<ymax>1969</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistKejuManis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>342</xmin>
+			<ymin>1979</ymin>
+			<xmax>647</xmax>
+			<ymax>2168</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistKejuManis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>645</xmin>
+			<ymin>1976</ymin>
+			<xmax>950</xmax>
+			<ymax>2165</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistKejuManis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>653</xmin>
+			<ymin>1778</ymin>
+			<xmax>958</xmax>
+			<ymax>1967</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistKejuManis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>954</xmin>
+			<ymin>1776</ymin>
+			<xmax>1259</xmax>
+			<ymax>1965</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistKejuManis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>948</xmin>
+			<ymin>1978</ymin>
+			<xmax>1253</xmax>
+			<ymax>2167</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistCoklat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1267</xmin>
+			<ymin>1769</ymin>
+			<xmax>1561</xmax>
+			<ymax>1967</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Roma MalkistCreamCrackers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>300</xmin>
+			<ymin>1233</ymin>
+			<xmax>625</xmax>
+			<ymax>1437</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Roma MalkistCreamCrackers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>628</xmin>
+			<ymin>1225</ymin>
+			<xmax>953</xmax>
+			<ymax>1429</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Roma MalkistCreamCrackers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>624</xmin>
+			<ymin>1427</ymin>
+			<xmax>949</xmax>
+			<ymax>1631</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Roma MalkistAbon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>1433</ymin>
+			<xmax>296</xmax>
+			<ymax>1626</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Roma MalkistCrackers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>968</xmin>
+			<ymin>1235</ymin>
+			<xmax>1270</xmax>
+			<ymax>1440</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Roma MalkistCrackers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1277</xmin>
+			<ymin>1237</ymin>
+			<xmax>1579</xmax>
+			<ymax>1442</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Roma MalkistCrackers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1264</xmin>
+			<ymin>1432</ymin>
+			<xmax>1566</xmax>
+			<ymax>1637</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>FantasticHoney&amp;Soy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>891</xmin>
+			<ymin>638</ymin>
+			<xmax>1486</xmax>
+			<ymax>875</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>FantasticHoney&amp;Soy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>862</xmin>
+			<ymin>856</ymin>
+			<xmax>1457</xmax>
+			<ymax>1093</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>FantasticBarbeque</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>292</xmin>
+			<ymin>673</ymin>
+			<xmax>858</xmax>
+			<ymax>854</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>FantasticOriginal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>273</ymin>
+			<xmax>796</xmax>
+			<ymax>470</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>BinRiceCrackerScsameFlavour</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>807</xmin>
+			<ymin>274</ymin>
+			<xmax>1403</xmax>
+			<ymax>468</ymax>
 		</bndbox>
 	</object>
 </annotation>

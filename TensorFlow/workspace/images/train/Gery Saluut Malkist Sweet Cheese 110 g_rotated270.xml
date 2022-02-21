@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Gery Saluut Malkist Sweet Cheese 110 g_rotated270.jpg</filename>
+	<path>C:\PKL\SAM-AI\TensorFlow\workspace\images\train\Gery Saluut Malkist Sweet Cheese 110 g_rotated270.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>370</width>
+		<height>370</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>90101225205100</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>39</ymin>
+			<xmax>281</xmax>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+</annotation>

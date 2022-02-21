@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Garuda Crunchy Potato Daging Sapi BBQ 14 g_rotated180.jpg</filename>
+	<path>C:\PKL\SAM-AI\TensorFlow\workspace\images\train\Garuda Crunchy Potato Daging Sapi BBQ 14 g_rotated180.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>370</width>
+		<height>370</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>90101154204100</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>34</ymin>
+			<xmax>296</xmax>
+			<ymax>335</ymax>
+		</bndbox>
+	</object>
+</annotation>

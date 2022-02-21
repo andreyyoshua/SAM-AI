@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
-	<filename>20211214_131039_rotated90.jpg</filename>
-	<path>D:\PKL\SAM-AI\TensorFlow\workspace\images\train\20211214_131039_rotated90.jpg</path>
+	<filename>20211214_131039_rotated180.jpg</filename>
+	<path>D:\PKL\SAM-AI\TensorFlow\workspace\images\train\20211214_131039_rotated180.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1002</xmin>
-			<ymin>1529</ymin>
-			<xmax>1097</xmax>
-			<ymax>1686</ymax>
+			<xmin>2904</xmin>
+			<ymin>121</ymin>
+			<xmax>3000</xmax>
+			<ymax>278</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1189</xmin>
-			<ymin>1556</ymin>
-			<xmax>1284</xmax>
-			<ymax>1713</ymax>
+			<xmin>2717</xmin>
+			<ymin>101</ymin>
+			<xmax>2791</xmax>
+			<ymax>250</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1095</xmin>
-			<ymin>1545</ymin>
-			<xmax>1190</xmax>
-			<ymax>1702</ymax>
+			<xmin>2800</xmin>
+			<ymin>100</ymin>
+			<xmax>2896</xmax>
+			<ymax>257</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,214 +53,298 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1190</xmin>
-			<ymin>1385</ymin>
-			<xmax>1285</xmax>
+			<xmin>2904</xmin>
+			<ymin>288</ymin>
+			<xmax>3000</xmax>
+			<ymax>445</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistKejuManis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2809</xmin>
+			<ymin>275</ymin>
+			<xmax>2905</xmax>
+			<ymax>432</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistKejuManis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2700</xmin>
+			<ymin>259</ymin>
+			<xmax>2796</xmax>
+			<ymax>416</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistKejuManis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2695</xmin>
+			<ymin>421</ymin>
+			<xmax>2791</xmax>
+			<ymax>578</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistKejuManis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2797</xmin>
+			<ymin>431</ymin>
+			<xmax>2893</xmax>
+			<ymax>588</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistKejuManis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2894</xmin>
+			<ymin>439</ymin>
+			<xmax>2990</xmax>
+			<ymax>596</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistKejuManis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2889</xmin>
+			<ymin>602</ymin>
+			<xmax>2985</xmax>
+			<ymax>759</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistKejuManis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2795</xmin>
+			<ymin>596</ymin>
+			<xmax>2891</xmax>
+			<ymax>753</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistKejuManis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2696</xmin>
+			<ymin>580</ymin>
+			<xmax>2792</xmax>
+			<ymax>737</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistKejuManis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2690</xmin>
+			<ymin>747</ymin>
+			<xmax>2786</xmax>
+			<ymax>904</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistKejuManis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2785</xmin>
+			<ymin>748</ymin>
+			<xmax>2881</xmax>
+			<ymax>905</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistKejuManis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2887</xmin>
+			<ymin>764</ymin>
+			<xmax>2983</xmax>
+			<ymax>921</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistKejuManis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2678</xmin>
+			<ymin>1094</ymin>
+			<xmax>2774</xmax>
+			<ymax>1251</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistKejuManis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2783</xmin>
+			<ymin>1082</ymin>
+			<xmax>2879</xmax>
+			<ymax>1239</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistKejuManis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2885</xmin>
+			<ymin>1086</ymin>
+			<xmax>2981</xmax>
+			<ymax>1243</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistKejuManis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2690</xmin>
+			<ymin>928</ymin>
+			<xmax>2786</xmax>
+			<ymax>1085</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistKejuManis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2784</xmin>
+			<ymin>932</ymin>
+			<xmax>2880</xmax>
+			<ymax>1089</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistKejuManis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2886</xmin>
+			<ymin>938</ymin>
+			<xmax>2982</xmax>
+			<ymax>1095</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistCoklat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2697</xmin>
+			<ymin>1266</ymin>
+			<xmax>2776</xmax>
+			<ymax>1395</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistCoklat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2872</xmin>
+			<ymin>1559</ymin>
+			<xmax>2968</xmax>
+			<ymax>1718</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistCoklat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2775</xmin>
+			<ymin>1588</ymin>
+			<xmax>2854</xmax>
+			<ymax>1717</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistCoklat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2696</xmin>
+			<ymin>1588</ymin>
+			<xmax>2775</xmax>
+			<ymax>1717</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistCoklat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2879</xmin>
+			<ymin>1414</ymin>
+			<xmax>2958</xmax>
+			<ymax>1543</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistCoklat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2792</xmin>
+			<ymin>1413</ymin>
+			<xmax>2871</xmax>
 			<ymax>1542</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>RomaMalkistKejuManis</name>
+		<name>RomaMalkistCoklat</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1099</xmin>
-			<ymin>1370</ymin>
-			<xmax>1194</xmax>
-			<ymax>1527</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>RomaMalkistKejuManis</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>996</xmin>
-			<ymin>1356</ymin>
-			<xmax>1091</xmax>
-			<ymax>1513</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>RomaMalkistKejuManis</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1008</xmin>
-			<ymin>1202</ymin>
-			<xmax>1103</xmax>
-			<ymax>1359</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>RomaMalkistKejuManis</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1101</xmin>
-			<ymin>1209</ymin>
-			<xmax>1196</xmax>
-			<ymax>1366</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>RomaMalkistKejuManis</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1193</xmin>
-			<ymin>1227</ymin>
-			<xmax>1288</xmax>
-			<ymax>1384</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>RomaMalkistKejuManis</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1013</xmin>
-			<ymin>555</ymin>
-			<xmax>1108</xmax>
-			<ymax>712</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>RomaMalkistKejuManis</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1010</xmin>
-			<ymin>713</ymin>
-			<xmax>1105</xmax>
-			<ymax>870</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>RomaMalkistKejuManis</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1012</xmin>
-			<ymin>887</ymin>
-			<xmax>1107</xmax>
-			<ymax>1044</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>RomaMalkistKejuManis</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1012</xmin>
-			<ymin>1037</ymin>
-			<xmax>1107</xmax>
-			<ymax>1194</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>RomaMalkistKejuManis</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1111</xmin>
-			<ymin>555</ymin>
-			<xmax>1206</xmax>
-			<ymax>712</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>RomaMalkistKejuManis</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1111</xmin>
-			<ymin>720</ymin>
-			<xmax>1206</xmax>
-			<ymax>877</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>RomaMalkistKejuManis</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1111</xmin>
-			<ymin>894</ymin>
-			<xmax>1206</xmax>
-			<ymax>1051</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>RomaMalkistKejuManis</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1109</xmin>
-			<ymin>1055</ymin>
-			<xmax>1198</xmax>
-			<ymax>1207</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>RomaMalkistKejuManis</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1215</xmin>
-			<ymin>561</ymin>
-			<xmax>1310</xmax>
-			<ymax>718</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>RomaMalkistKejuManis</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1206</xmin>
-			<ymin>723</ymin>
-			<xmax>1301</xmax>
-			<ymax>880</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>RomaMalkistKejuManis</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1204</xmin>
-			<ymin>897</ymin>
-			<xmax>1299</xmax>
-			<ymax>1054</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>RomaMalkistKejuManis</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1199</xmin>
-			<ymin>1062</ymin>
-			<xmax>1294</xmax>
-			<ymax>1219</ymax>
+			<xmin>2698</xmin>
+			<ymin>1420</ymin>
+			<xmax>2777</xmax>
+			<ymax>1549</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -269,10 +353,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1026</xmin>
-			<ymin>421</ymin>
-			<xmax>1117</xmax>
-			<ymax>552</ymax>
+			<xmin>2880</xmin>
+			<ymin>1257</ymin>
+			<xmax>2959</xmax>
+			<ymax>1386</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -281,94 +365,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1217</xmin>
-			<ymin>412</ymin>
-			<xmax>1308</xmax>
-			<ymax>543</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>RomaMalkistCoklat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1124</xmin>
-			<ymin>412</ymin>
-			<xmax>1215</xmax>
-			<ymax>543</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>RomaMalkistCoklat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1212</xmin>
-			<ymin>254</ymin>
-			<xmax>1303</xmax>
-			<ymax>385</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>RomaMalkistCoklat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1118</xmin>
-			<ymin>258</ymin>
-			<xmax>1209</xmax>
-			<ymax>389</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>RomaMalkistCoklat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1025</xmin>
-			<ymin>265</ymin>
-			<xmax>1116</xmax>
-			<ymax>396</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>RomaMalkistCoklat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1222</xmin>
-			<ymin>81</ymin>
-			<xmax>1310</xmax>
-			<ymax>224</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>RomaMalkistCoklat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1127</xmin>
-			<ymin>83</ymin>
-			<xmax>1218</xmax>
-			<ymax>214</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>RomaMalkistCoklat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1024</xmin>
-			<ymin>78</ymin>
-			<xmax>1117</xmax>
-			<ymax>234</ymax>
+			<xmin>2791</xmin>
+			<ymin>1260</ymin>
+			<xmax>2870</xmax>
+			<ymax>1389</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -377,10 +377,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1461</xmin>
-			<ymin>700</ymin>
-			<xmax>1545</xmax>
-			<ymax>835</ymax>
+			<xmin>2371</xmin>
+			<ymin>814</ymin>
+			<xmax>2447</xmax>
+			<ymax>962</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -389,10 +389,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1453</xmin>
-			<ymin>839</ymin>
-			<xmax>1537</xmax>
-			<ymax>974</ymax>
+			<xmin>2550</xmin>
+			<ymin>810</ymin>
+			<xmax>2626</xmax>
+			<ymax>958</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -401,10 +401,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1550</xmin>
-			<ymin>702</ymin>
-			<xmax>1634</xmax>
-			<ymax>837</ymax>
+			<xmin>2462</xmin>
+			<ymin>812</ymin>
+			<xmax>2538</xmax>
+			<ymax>960</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -413,10 +413,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1542</xmin>
-			<ymin>843</ymin>
-			<xmax>1626</xmax>
-			<ymax>978</ymax>
+			<xmin>2374</xmin>
+			<ymin>658</ymin>
+			<xmax>2457</xmax>
+			<ymax>814</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -425,10 +425,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1449</xmin>
-			<ymin>1007</ymin>
-			<xmax>1533</xmax>
-			<ymax>1142</ymax>
+			<xmin>2466</xmin>
+			<ymin>658</ymin>
+			<xmax>2542</xmax>
+			<ymax>806</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -437,598 +437,1642 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1547</xmin>
-			<ymin>1005</ymin>
-			<xmax>1631</xmax>
+			<xmin>2556</xmin>
+			<ymin>654</ymin>
+			<xmax>2632</xmax>
+			<ymax>802</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistCappucino</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2367</xmin>
+			<ymin>960</ymin>
+			<xmax>2452</xmax>
+			<ymax>1107</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistCappucino</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2459</xmin>
+			<ymin>962</ymin>
+			<xmax>2535</xmax>
+			<ymax>1110</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistCappucino</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2548</xmin>
+			<ymin>961</ymin>
+			<xmax>2624</xmax>
+			<ymax>1109</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistCappucino</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2544</xmin>
+			<ymin>1116</ymin>
+			<xmax>2629</xmax>
+			<ymax>1263</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistCappucino</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2451</xmin>
+			<ymin>1118</ymin>
+			<xmax>2536</xmax>
+			<ymax>1265</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistCappucino</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2361</xmin>
+			<ymin>1116</ymin>
+			<xmax>2446</xmax>
+			<ymax>1263</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistCappucino</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2361</xmin>
+			<ymin>1274</ymin>
+			<xmax>2446</xmax>
+			<ymax>1421</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistCappucino</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2449</xmin>
+			<ymin>1274</ymin>
+			<xmax>2534</xmax>
+			<ymax>1421</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistCappucino</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2538</xmin>
+			<ymin>1271</ymin>
+			<xmax>2623</xmax>
+			<ymax>1418</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistCappucino</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2367</xmin>
+			<ymin>1421</ymin>
+			<xmax>2452</xmax>
+			<ymax>1568</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistCappucino</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2448</xmin>
+			<ymin>1419</ymin>
+			<xmax>2533</xmax>
+			<ymax>1566</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistCappucino</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2539</xmin>
+			<ymin>1420</ymin>
+			<xmax>2624</xmax>
+			<ymax>1567</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistCappucino</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2365</xmin>
+			<ymin>1566</ymin>
+			<xmax>2450</xmax>
+			<ymax>1713</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistCappucino</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2451</xmin>
+			<ymin>1566</ymin>
+			<xmax>2536</xmax>
+			<ymax>1713</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistCappucino</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2535</xmin>
+			<ymin>1572</ymin>
+			<xmax>2620</xmax>
+			<ymax>1719</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaCreamCrackers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2378</xmin>
+			<ymin>343</ymin>
+			<xmax>2464</xmax>
+			<ymax>488</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaCreamCrackers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2562</xmin>
+			<ymin>343</ymin>
+			<xmax>2648</xmax>
+			<ymax>488</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaCreamCrackers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2472</xmin>
+			<ymin>339</ymin>
+			<xmax>2558</xmax>
+			<ymax>484</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaCreamCrackers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2569</xmin>
+			<ymin>177</ymin>
+			<xmax>2655</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaCreamCrackers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2474</xmin>
+			<ymin>175</ymin>
+			<xmax>2560</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaCreamCrackers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2377</xmin>
+			<ymin>177</ymin>
+			<xmax>2463</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaCreamCrackers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2392</xmin>
+			<ymin>23</ymin>
+			<xmax>2478</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaCreamCrackers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2481</xmin>
+			<ymin>22</ymin>
+			<xmax>2567</xmax>
+			<ymax>167</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaCreamCrackers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2569</xmin>
+			<ymin>21</ymin>
+			<xmax>2655</xmax>
+			<ymax>166</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistCrackers</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2063</xmin>
+			<ymin>1</ymin>
+			<xmax>2144</xmax>
+			<ymax>127</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistCrackers</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2236</xmin>
+			<ymin>1</ymin>
+			<xmax>2319</xmax>
+			<ymax>144</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistCrackers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2152</xmin>
+			<ymin>2</ymin>
+			<xmax>2233</xmax>
+			<ymax>129</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistCrackers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2244</xmin>
+			<ymin>161</ymin>
+			<xmax>2323</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistCrackers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2151</xmin>
+			<ymin>155</ymin>
+			<xmax>2231</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistCrackers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2059</xmin>
+			<ymin>129</ymin>
+			<xmax>2142</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistCrackers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2141</xmin>
+			<ymin>308</ymin>
+			<xmax>2224</xmax>
+			<ymax>458</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistCrackers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2057</xmin>
+			<ymin>296</ymin>
+			<xmax>2140</xmax>
+			<ymax>446</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistCrackers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2233</xmin>
+			<ymin>306</ymin>
+			<xmax>2316</xmax>
+			<ymax>456</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistCrackers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2146</xmin>
+			<ymin>469</ymin>
+			<xmax>2233</xmax>
+			<ymax>621</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistCrackers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2053</xmin>
+			<ymin>448</ymin>
+			<xmax>2136</xmax>
+			<ymax>598</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NissinGoldenMalkistButter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2208</xmin>
+			<ymin>667</ymin>
+			<xmax>2300</xmax>
+			<ymax>852</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NissinGoldenMalkistButter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2046</xmin>
+			<ymin>646</ymin>
+			<xmax>2131</xmax>
+			<ymax>827</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NissinGoldenMalkistButter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2121</xmin>
+			<ymin>642</ymin>
+			<xmax>2213</xmax>
+			<ymax>827</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NissinGoldenMalkistButter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2046</xmin>
+			<ymin>854</ymin>
+			<xmax>2131</xmax>
+			<ymax>1035</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NissinGoldenMalkistButter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2215</xmin>
+			<ymin>858</ymin>
+			<xmax>2300</xmax>
+			<ymax>1039</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NissinGoldenMalkistButter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2134</xmin>
+			<ymin>853</ymin>
+			<xmax>2219</xmax>
+			<ymax>1034</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NissinGoldenMalkistChocolate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2050</xmin>
+			<ymin>1056</ymin>
+			<xmax>2123</xmax>
+			<ymax>1238</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NissinGoldenMalkistChocolate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2211</xmin>
+			<ymin>1056</ymin>
+			<xmax>2304</xmax>
+			<ymax>1244</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NissinGoldenMalkistChocolate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2129</xmin>
+			<ymin>1058</ymin>
+			<xmax>2202</xmax>
+			<ymax>1240</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>KhongGuanMalkistCoklat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2046</xmin>
+			<ymin>1256</ymin>
+			<xmax>2135</xmax>
+			<ymax>1421</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>KhongGuanMalkistCoklat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2138</xmin>
+			<ymin>1256</ymin>
+			<xmax>2227</xmax>
+			<ymax>1421</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>KhongGuanMalkistCoklat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2230</xmin>
+			<ymin>1450</ymin>
+			<xmax>2319</xmax>
+			<ymax>1615</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>KhongGuanMalkistCoklat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2134</xmin>
+			<ymin>1427</ymin>
+			<xmax>2223</xmax>
+			<ymax>1592</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>KhongGuanMalkistCoklat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2044</xmin>
+			<ymin>1435</ymin>
+			<xmax>2133</xmax>
+			<ymax>1600</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistAbon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2138</xmin>
+			<ymin>1602</ymin>
+			<xmax>2263</xmax>
+			<ymax>1771</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RomaMalkistAbon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2050</xmin>
+			<ymin>1605</ymin>
+			<xmax>2130</xmax>
+			<ymax>1767</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NabatiGrakerRichberyCheese</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1883</xmin>
+			<ymin>492</ymin>
+			<xmax>1979</xmax>
+			<ymax>656</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NabatiGrakerRichberyCheese</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1881</xmin>
+			<ymin>1477</ymin>
+			<xmax>1977</xmax>
+			<ymax>1641</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NabatiGrakerRichberyCheese</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1877</xmin>
+			<ymin>1314</ymin>
+			<xmax>1979</xmax>
+			<ymax>1463</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NabatiGrakerRichberyCheese</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1877</xmin>
+			<ymin>1167</ymin>
+			<xmax>1973</xmax>
+			<ymax>1315</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NabatiGrakerRichberyCheese</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1881</xmin>
+			<ymin>998</ymin>
+			<xmax>1977</xmax>
+			<ymax>1162</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NabatiGrakerRichberyCheese</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1879</xmin>
+			<ymin>828</ymin>
+			<xmax>1975</xmax>
+			<ymax>992</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NabatiGrakerRichberyCheese</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1880</xmin>
+			<ymin>657</ymin>
+			<xmax>1976</xmax>
+			<ymax>821</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NabatiGrakerRichberyCheese</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1808</xmin>
+			<ymin>506</ymin>
+			<xmax>1881</xmax>
+			<ymax>652</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NabatiGrakerRichberyCheese</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1796</xmin>
+			<ymin>1481</ymin>
+			<xmax>1869</xmax>
+			<ymax>1627</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NabatiGrakerRichberyCheese</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1796</xmin>
+			<ymin>1312</ymin>
+			<xmax>1869</xmax>
+			<ymax>1458</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NabatiGrakerRichberyCheese</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1796</xmin>
+			<ymin>1164</ymin>
+			<xmax>1869</xmax>
+			<ymax>1310</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NabatiGrakerRichberyCheese</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1802</xmin>
+			<ymin>994</ymin>
+			<xmax>1875</xmax>
 			<ymax>1140</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>RomaMalkistCappucino</name>
+		<name>NabatiGrakerRichberyCheese</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1549</xmin>
-			<ymin>543</ymin>
-			<xmax>1633</xmax>
-			<ymax>678</ymax>
+			<xmin>1800</xmin>
+			<ymin>838</ymin>
+			<xmax>1873</xmax>
+			<ymax>984</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>RomaMalkistCappucino</name>
+		<name>NabatiGrakerRichberyCheese</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1463</xmin>
-			<ymin>547</ymin>
-			<xmax>1547</xmax>
-			<ymax>682</ymax>
+			<xmin>1807</xmin>
+			<ymin>665</ymin>
+			<xmax>1880</xmax>
+			<ymax>811</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>RomaMalkistCappucino</name>
+		<name>NabatiGrakerRichoco</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1549</xmin>
-			<ymin>390</ymin>
-			<xmax>1633</xmax>
-			<ymax>525</ymax>
+			<xmin>1883</xmin>
+			<ymin>4</ymin>
+			<xmax>1990</xmax>
+			<ymax>158</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>RomaMalkistCappucino</name>
+		<name>NabatiGrakerRichoco</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1460</xmin>
-			<ymin>387</ymin>
-			<xmax>1544</xmax>
-			<ymax>522</ymax>
+			<xmin>1887</xmin>
+			<ymin>340</ymin>
+			<xmax>1996</xmax>
+			<ymax>475</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>RomaMalkistCappucino</name>
+		<name>NabatiGrakerRichoco</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1457</xmin>
-			<ymin>242</ymin>
-			<xmax>1541</xmax>
-			<ymax>377</ymax>
+			<xmin>1888</xmin>
+			<ymin>181</ymin>
+			<xmax>1995</xmax>
+			<ymax>335</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>RomaMalkistCappucino</name>
+		<name>NabatiGrakerRichoco</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1802</xmin>
+			<ymin>8</ymin>
+			<xmax>1879</xmax>
+			<ymax>148</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NabatiGrakerRichoco</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1804</xmin>
+			<ymin>339</ymin>
+			<xmax>1881</xmax>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NabatiGrakerRichoco</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1809</xmin>
+			<ymin>183</ymin>
+			<xmax>1886</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NabatiGrakerRichberyCheese</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1063</xmin>
+			<ymin>19</ymin>
+			<xmax>1165</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NabatiGrakerRichberyCheese</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1005</xmin>
+			<ymin>49</ymin>
+			<xmax>1069</xmax>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225205101</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1548</xmin>
-			<ymin>241</ymin>
+			<ymin>1315</ymin>
+			<xmax>1627</xmax>
+			<ymax>1467</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225205101</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1635</xmin>
+			<ymin>1499</ymin>
+			<xmax>1715</xmax>
+			<ymax>1673</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225205101</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1553</xmin>
+			<ymin>1492</ymin>
 			<xmax>1632</xmax>
-			<ymax>376</ymax>
+			<ymax>1644</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>RomaMalkistCappucino</name>
+		<name>90101225212101</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1546</xmin>
-			<ymin>90</ymin>
+			<xmin>1631</xmin>
+			<ymin>738</ymin>
+			<xmax>1723</xmax>
+			<ymax>877</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225212101</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1627</xmin>
+			<ymin>1171</ymin>
+			<xmax>1719</xmax>
+			<ymax>1310</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225212101</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1635</xmin>
+			<ymin>1026</ymin>
+			<xmax>1727</xmax>
+			<ymax>1165</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225212101</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1634</xmin>
+			<ymin>880</ymin>
+			<xmax>1726</xmax>
+			<ymax>1019</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225212101</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1538</xmin>
+			<ymin>1169</ymin>
 			<xmax>1630</xmax>
-			<ymax>225</ymax>
+			<ymax>1308</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>RomaMalkistCappucino</name>
+		<name>90101225212101</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1457</xmin>
-			<ymin>96</ymin>
-			<xmax>1541</xmax>
-			<ymax>231</ymax>
+			<xmin>1544</xmin>
+			<ymin>1028</ymin>
+			<xmax>1636</xmax>
+			<ymax>1167</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>RomaMalkistCappucino</name>
+		<name>90101225212101</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1368</xmin>
-			<ymin>994</ymin>
-			<xmax>1446</xmax>
-			<ymax>1148</ymax>
+			<xmin>1548</xmin>
+			<ymin>889</ymin>
+			<xmax>1640</xmax>
+			<ymax>1028</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>RomaMalkistCappucino</name>
+		<name>90101225212101</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1544</xmin>
+			<ymin>736</ymin>
+			<xmax>1636</xmax>
+			<ymax>875</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225202101</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1554</xmin>
+			<ymin>560</ymin>
+			<xmax>1640</xmax>
+			<ymax>710</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225202101</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1643</xmin>
+			<ymin>573</ymin>
+			<xmax>1729</xmax>
+			<ymax>723</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225202101</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1641</xmin>
+			<ymin>21</ymin>
+			<xmax>1727</xmax>
+			<ymax>171</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225202101</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1637</xmin>
+			<ymin>208</ymin>
+			<xmax>1723</xmax>
+			<ymax>358</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225202101</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1635</xmin>
+			<ymin>368</ymin>
+			<xmax>1721</xmax>
+			<ymax>518</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225202101</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1537</xmin>
+			<ymin>29</ymin>
+			<xmax>1623</xmax>
+			<ymax>179</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225202101</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1544</xmin>
+			<ymin>216</ymin>
+			<xmax>1630</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225202101</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1544</xmin>
+			<ymin>383</ymin>
+			<xmax>1630</xmax>
+			<ymax>533</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225212101</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1383</xmin>
+			<ymin>1523</ymin>
+			<xmax>1479</xmax>
+			<ymax>1640</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225212101</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1304</xmin>
+			<ymin>1513</ymin>
+			<xmax>1377</xmax>
+			<ymax>1642</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225218101</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1302</xmin>
+			<ymin>325</ymin>
+			<xmax>1382</xmax>
+			<ymax>498</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225218101</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1291</xmin>
+			<ymin>1346</ymin>
+			<xmax>1377</xmax>
+			<ymax>1511</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225218101</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1378</xmin>
-			<ymin>78</ymin>
-			<xmax>1456</xmax>
-			<ymax>232</ymax>
+			<ymin>1344</ymin>
+			<xmax>1472</xmax>
+			<ymax>1511</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>RomaMalkistCappucino</name>
+		<name>90101225218101</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1302</xmin>
+			<ymin>1174</ymin>
+			<xmax>1369</xmax>
+			<ymax>1344</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225218101</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1371</xmin>
-			<ymin>240</ymin>
-			<xmax>1449</xmax>
-			<ymax>394</ymax>
+			<ymin>490</ymin>
+			<xmax>1465</xmax>
+			<ymax>657</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>RomaMalkistCappucino</name>
+		<name>90101225218101</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1374</xmin>
-			<ymin>387</ymin>
-			<xmax>1452</xmax>
-			<ymax>541</ymax>
+			<xmin>1376</xmin>
+			<ymin>663</ymin>
+			<xmax>1470</xmax>
+			<ymax>830</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>RomaMalkistCappucino</name>
+		<name>90101225218101</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1367</xmin>
-			<ymin>540</ymin>
-			<xmax>1445</xmax>
-			<ymax>694</ymax>
+			<xmin>1377</xmin>
+			<ymin>843</ymin>
+			<xmax>1471</xmax>
+			<ymax>1010</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>RomaMalkistCappucino</name>
+		<name>90101225218101</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1367</xmin>
-			<ymin>688</ymin>
-			<xmax>1445</xmax>
-			<ymax>842</ymax>
+			<xmin>1376</xmin>
+			<ymin>1021</ymin>
+			<xmax>1470</xmax>
+			<ymax>1188</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>RomaMalkistCappucino</name>
+		<name>90101225218101</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1367</xmin>
-			<ymin>841</ymin>
-			<xmax>1445</xmax>
-			<ymax>995</ymax>
+			<xmin>1372</xmin>
+			<ymin>1190</ymin>
+			<xmax>1473</xmax>
+			<ymax>1362</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>RomaCreamCrackers</name>
+		<name>90101225218101</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1438</xmin>
-			<ymin>1305</ymin>
-			<xmax>1526</xmax>
-			<ymax>1460</ymax>
+			<xmin>1022</xmin>
+			<ymin>1043</ymin>
+			<xmax>1097</xmax>
+			<ymax>1211</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>RomaCreamCrackers</name>
+		<name>90101225218101</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1529</xmin>
-			<ymin>1302</ymin>
-			<xmax>1617</xmax>
-			<ymax>1457</ymax>
+			<xmin>1296</xmin>
+			<ymin>1015</ymin>
+			<xmax>1376</xmax>
+			<ymax>1188</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>RomaCreamCrackers</name>
+		<name>90101225218101</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1532</xmin>
-			<ymin>1467</ymin>
-			<xmax>1620</xmax>
-			<ymax>1622</ymax>
+			<xmin>1296</xmin>
+			<ymin>848</ymin>
+			<xmax>1376</xmax>
+			<ymax>1021</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>RomaCreamCrackers</name>
+		<name>90101225218101</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1435</xmin>
-			<ymin>1466</ymin>
-			<xmax>1523</xmax>
-			<ymax>1621</ymax>
+			<xmin>1296</xmin>
+			<ymin>673</ymin>
+			<xmax>1376</xmax>
+			<ymax>846</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>RomaCreamCrackers</name>
+		<name>90101225218101</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1526</xmin>
-			<ymin>1624</ymin>
-			<xmax>1614</xmax>
-			<ymax>1779</ymax>
+			<xmin>1298</xmin>
+			<ymin>503</ymin>
+			<xmax>1378</xmax>
+			<ymax>676</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>RomaCreamCrackers</name>
+		<name>90101225218101</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1438</xmin>
-			<ymin>1626</ymin>
-			<xmax>1526</xmax>
-			<ymax>1781</ymax>
+			<xmin>1175</xmin>
+			<ymin>1047</ymin>
+			<xmax>1250</xmax>
+			<ymax>1215</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>RomaCreamCrackers</name>
+		<name>90101225218101</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1358</xmin>
-			<ymin>1297</ymin>
-			<xmax>1446</xmax>
-			<ymax>1452</ymax>
+			<xmin>1093</xmin>
+			<ymin>1037</ymin>
+			<xmax>1168</xmax>
+			<ymax>1205</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>RomaCreamCrackers</name>
+		<name>90101225218101</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1346</xmin>
-			<ymin>1470</ymin>
-			<xmax>1434</xmax>
-			<ymax>1625</ymax>
+			<xmin>1017</xmin>
+			<ymin>1229</ymin>
+			<xmax>1092</xmax>
+			<ymax>1397</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>RomaCreamCrackers</name>
+		<name>90101225218101</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1344</xmin>
-			<ymin>1621</ymin>
-			<xmax>1432</xmax>
-			<ymax>1776</ymax>
+			<xmin>1100</xmin>
+			<ymin>1230</ymin>
+			<xmax>1175</xmax>
+			<ymax>1398</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>RomaMalkistCrackers</name>
+		<name>90101225218101</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1767</xmin>
-			<ymin>1509</ymin>
-			<xmax>1853</xmax>
-			<ymax>1645</ymax>
+			<xmin>1171</xmin>
+			<ymin>1212</ymin>
+			<xmax>1246</xmax>
+			<ymax>1380</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>RomaMalkistCrackers</name>
+		<name>90101225209101</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1679</xmin>
-			<ymin>1496</ymin>
-			<xmax>1765</xmax>
-			<ymax>1632</ymax>
+			<xmin>1385</xmin>
+			<ymin>335</ymin>
+			<xmax>1471</xmax>
+			<ymax>477</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>RomaMalkistCrackers</name>
+		<name>90101225209101</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1856</xmin>
-			<ymin>1524</ymin>
-			<xmax>1942</xmax>
-			<ymax>1660</ymax>
+			<xmin>1373</xmin>
+			<ymin>21</ymin>
+			<xmax>1465</xmax>
+			<ymax>160</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>RomaMalkistCrackers</name>
+		<name>90101225209101</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1858</xmin>
-			<ymin>1359</ymin>
-			<xmax>1944</xmax>
-			<ymax>1495</ymax>
+			<xmin>1381</xmin>
+			<ymin>179</ymin>
+			<xmax>1467</xmax>
+			<ymax>321</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>RomaMalkistCrackers</name>
+		<name>90101225209101</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1773</xmin>
-			<ymin>1346</ymin>
-			<xmax>1859</xmax>
-			<ymax>1482</ymax>
+			<xmin>1290</xmin>
+			<ymin>19</ymin>
+			<xmax>1371</xmax>
+			<ymax>156</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>RomaMalkistCrackers</name>
+		<name>90101225209101</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1685</xmin>
-			<ymin>1341</ymin>
-			<xmax>1772</xmax>
-			<ymax>1487</ymax>
+			<xmin>1293</xmin>
+			<ymin>188</ymin>
+			<xmax>1374</xmax>
+			<ymax>325</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>RomaMalkistCrackers</name>
+		<name>RomaMalkistCoklatKelapa</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1859</xmin>
-			<ymin>1204</ymin>
-			<xmax>1945</xmax>
-			<ymax>1340</ymax>
+			<xmin>1023</xmin>
+			<ymin>1400</ymin>
+			<xmax>1083</xmax>
+			<ymax>1560</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>RomaMalkistCrackers</name>
+		<name>RomaMalkistCoklatKelapa</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1758</xmin>
-			<ymin>1181</ymin>
-			<xmax>1857</xmax>
-			<ymax>1318</ymax>
+			<xmin>1090</xmin>
+			<ymin>1396</ymin>
+			<xmax>1167</xmax>
+			<ymax>1556</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>RomaMalkistCrackers</name>
+		<name>90101225226101</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1025</xmin>
+			<ymin>858</ymin>
+			<xmax>1098</xmax>
+			<ymax>1000</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225226101</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1102</xmin>
+			<ymin>855</ymin>
+			<xmax>1175</xmax>
+			<ymax>997</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225226101</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1182</xmin>
+			<ymin>858</ymin>
+			<xmax>1242</xmax>
+			<ymax>1004</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225226101</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1169</xmin>
+			<ymin>681</ymin>
+			<xmax>1242</xmax>
+			<ymax>823</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225226101</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1092</xmin>
+			<ymin>668</ymin>
+			<xmax>1165</xmax>
+			<ymax>810</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225226101</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1023</xmin>
+			<ymin>666</ymin>
+			<xmax>1096</xmax>
+			<ymax>808</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225226101</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1165</xmin>
+			<ymin>512</ymin>
+			<xmax>1238</xmax>
+			<ymax>654</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225226101</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1080</xmin>
+			<ymin>502</ymin>
+			<xmax>1153</xmax>
+			<ymax>644</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101225226101</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1009</xmin>
+			<ymin>498</ymin>
+			<xmax>1082</xmax>
+			<ymax>640</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>SlaiOlaiNanas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1110</xmin>
+			<ymin>194</ymin>
+			<xmax>1238</xmax>
+			<ymax>444</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>SlaiOlaiNanas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1006</xmin>
+			<ymin>217</ymin>
+			<xmax>1060</xmax>
+			<ymax>477</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>SlaiOlaiNanas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1058</xmin>
+			<ymin>199</ymin>
+			<xmax>1106</xmax>
+			<ymax>435</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>KhongGuanSaltCheeseCombociz</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1853</xmin>
-			<ymin>1664</ymin>
-			<xmax>1939</xmax>
+			<xmin>1133</xmin>
+			<ymin>1610</ymin>
+			<xmax>1213</xmax>
 			<ymax>1800</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>RomaMalkistCrackers</name>
+		<name>KhongGuanSaltCheeseCombociz</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1675</xmin>
-			<ymin>1664</ymin>
-			<xmax>1761</xmax>
+			<xmin>1096</xmin>
+			<ymin>1608</ymin>
+			<xmax>1131</xmax>
 			<ymax>1800</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>RomaMalkistCrackers</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1764</xmin>
-			<ymin>1664</ymin>
-			<xmax>1850</xmax>
-			<ymax>1800</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>NissinGoldenMalkistButter</name>
+		<name>KhongGuanSaltCheeseCombociz</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1869</xmin>
-			<ymin>972</ymin>
-			<xmax>1950</xmax>
-			<ymax>1147</ymax>
+			<xmin>1050</xmin>
+			<ymin>1606</ymin>
+			<xmax>1090</xmax>
+			<ymax>1796</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>NissinGoldenMalkistButter</name>
+		<name>KhongGuanSaltCheeseCombociz</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1697</xmin>
-			<ymin>964</ymin>
-			<xmax>1778</xmax>
-			<ymax>1139</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>NissinGoldenMalkistButter</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1786</xmin>
-			<ymin>990</ymin>
-			<xmax>1867</xmax>
-			<ymax>1165</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>NissinGoldenMalkistButter</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1871</xmin>
-			<ymin>775</ymin>
-			<xmax>1952</xmax>
-			<ymax>950</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>NissinGoldenMalkistButter</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1793</xmin>
-			<ymin>771</ymin>
-			<xmax>1874</xmax>
-			<ymax>946</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>NissinGoldenMalkistButter</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1708</xmin>
-			<ymin>776</ymin>
-			<xmax>1789</xmax>
-			<ymax>951</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>NissinGoldenMalkistChocolate</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1795</xmin>
-			<ymin>576</ymin>
-			<xmax>1871</xmax>
-			<ymax>740</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>NissinGoldenMalkistChocolate</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1871</xmin>
-			<ymin>576</ymin>
-			<xmax>1947</xmax>
-			<ymax>740</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>NissinGoldenMalkistChocolate</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1692</xmin>
-			<ymin>553</ymin>
-			<xmax>1793</xmax>
-			<ymax>741</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>KhongGuanMalkistCoklat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1774</xmin>
-			<ymin>394</ymin>
-			<xmax>1859</xmax>
-			<ymax>540</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>KhongGuanMalkistCoklat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1863</xmin>
-			<ymin>392</ymin>
-			<xmax>1950</xmax>
-			<ymax>545</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>KhongGuanMalkistCoklat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1686</xmin>
-			<ymin>209</ymin>
-			<xmax>1773</xmax>
-			<ymax>362</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>KhongGuanMalkistCoklat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1771</xmin>
-			<ymin>222</ymin>
-			<xmax>1858</xmax>
-			<ymax>375</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>KhongGuanMalkistCoklat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1862</xmin>
-			<ymin>212</ymin>
-			<xmax>1949</xmax>
-			<ymax>365</ymax>
+			<xmin>998</xmin>
+			<ymin>1606</ymin>
+			<xmax>1050</xmax>
+			<ymax>1798</ymax>
 		</bndbox>
 	</object>
 </annotation>

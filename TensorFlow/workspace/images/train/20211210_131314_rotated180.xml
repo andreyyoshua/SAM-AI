@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
-	<filename>20211210_131314_rotated90.jpg</filename>
-	<path>D:\PKL\SAM-AI\TensorFlow\workspace\images\train\20211210_131314_rotated90.jpg</path>
+	<filename>20211210_131314_rotated180.jpg</filename>
+	<path>D:\PKL\train\20211210_131314_rotated180.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -477,6 +477,42 @@
 			<ymin>606</ymin>
 			<xmax>625</xmax>
 			<ymax>1051</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ToastyCheeseCrackers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>983</xmin>
+			<ymin>4</ymin>
+			<xmax>1542</xmax>
+			<ymax>419</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>CheeseBiskuit</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>431</xmin>
+			<ymin>1</ymin>
+			<xmax>854</xmax>
+			<ymax>430</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>CheeseBiskuit</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>423</xmax>
+			<ymax>430</ymax>
 		</bndbox>
 	</object>
 </annotation>

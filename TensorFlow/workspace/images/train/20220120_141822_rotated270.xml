@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
-	<filename>20220120_141822_rotated90.jpg</filename>
-	<path>D:\PKL\SAM-AI\TensorFlow\workspace\images\train\20220120_141822_rotated90.jpg</path>
+	<filename>20220120_141822_rotated180.jpg</filename>
+	<path>D:\PKL\SAM-AI\TensorFlow\workspace\images\train\20220120_141822_rotated180.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>3034</xmin>
-			<ymin>900</ymin>
-			<xmax>3571</xmax>
-			<ymax>1268</ymax>
+			<xmin>554</xmin>
+			<ymin>210</ymin>
+			<xmax>1018</xmax>
+			<ymax>546</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2976</xmin>
-			<ymin>1234</ymin>
-			<xmax>3453</xmax>
-			<ymax>1595</ymax>
+			<xmin>441</xmin>
+			<ymin>549</ymin>
+			<xmax>989</xmax>
+			<ymax>888</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>3011</xmin>
-			<ymin>505</ymin>
-			<xmax>3532</xmax>
-			<ymax>879</ymax>
+			<xmin>471</xmin>
+			<ymin>935</ymin>
+			<xmax>986</xmax>
+			<ymax>1296</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2508</xmin>
-			<ymin>1276</ymin>
-			<xmax>2855</xmax>
-			<ymax>1561</ymax>
+			<xmin>1136</xmin>
+			<ymin>235</ymin>
+			<xmax>1468</xmax>
+			<ymax>528</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2501</xmin>
-			<ymin>684</ymin>
-			<xmax>2922</xmax>
-			<ymax>982</ymax>
+			<xmin>1139</xmin>
+			<ymin>521</ymin>
+			<xmax>1493</xmax>
+			<ymax>821</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2498</xmin>
-			<ymin>987</ymin>
-			<xmax>2919</xmax>
-			<ymax>1285</ymax>
+			<xmin>1130</xmin>
+			<ymin>830</ymin>
+			<xmax>1484</xmax>
+			<ymax>1130</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,10 +89,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2495</xmin>
-			<ymin>350</ymin>
-			<xmax>2893</xmax>
-			<ymax>658</ymax>
+			<xmin>1129</xmin>
+			<ymin>1149</ymin>
+			<xmax>1489</xmax>
+			<ymax>1453</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -101,10 +101,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2206</xmin>
-			<ymin>1377</ymin>
-			<xmax>2298</xmax>
-			<ymax>1569</ymax>
+			<xmin>1698</xmin>
+			<ymin>246</ymin>
+			<xmax>1781</xmax>
+			<ymax>429</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -113,10 +113,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2300</xmin>
-			<ymin>1167</ymin>
-			<xmax>2392</xmax>
-			<ymax>1359</ymax>
+			<xmin>1607</xmin>
+			<ymin>438</ymin>
+			<xmax>1704</xmax>
+			<ymax>627</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -125,10 +125,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2196</xmin>
-			<ymin>1169</ymin>
-			<xmax>2288</xmax>
-			<ymax>1361</ymax>
+			<xmin>1708</xmin>
+			<ymin>448</ymin>
+			<xmax>1791</xmax>
+			<ymax>631</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -137,10 +137,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1665</xmin>
-			<ymin>373</ymin>
-			<xmax>1757</xmax>
-			<ymax>565</ymax>
+			<xmin>2650</xmin>
+			<ymin>798</ymin>
+			<xmax>2775</xmax>
+			<ymax>998</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -149,10 +149,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1773</xmin>
-			<ymin>395</ymin>
-			<xmax>1865</xmax>
-			<ymax>587</ymax>
+			<xmin>2644</xmin>
+			<ymin>1023</ymin>
+			<xmax>2769</xmax>
+			<ymax>1223</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -161,10 +161,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1871</xmin>
-			<ymin>408</ymin>
-			<xmax>1963</xmax>
-			<ymax>600</ymax>
+			<xmin>2515</xmin>
+			<ymin>1015</ymin>
+			<xmax>2640</xmax>
+			<ymax>1215</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -173,10 +173,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1780</xmin>
-			<ymin>148</ymin>
-			<xmax>1984</xmax>
-			<ymax>353</ymax>
+			<xmin>2388</xmin>
+			<ymin>1025</ymin>
+			<xmax>2513</xmax>
+			<ymax>1225</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -185,93 +185,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1337</xmin>
-			<ymin>345</ymin>
-			<xmax>1461</xmax>
-			<ymax>550</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>NestleKokoKrunchMaxxCup</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1461</xmin>
-			<ymin>124</ymin>
-			<xmax>1585</xmax>
-			<ymax>329</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>NestleKokoKrunchMaxxCup</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1331</xmin>
-			<ymin>120</ymin>
-			<xmax>1455</xmax>
-			<ymax>325</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>NestleKokoKrunchMaxxCup</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1207</xmin>
-			<ymin>134</ymin>
-			<xmax>1331</xmax>
-			<ymax>339</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>NestleKokoKrunchMaxxCup</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1472</xmin>
-			<ymin>580</ymin>
-			<xmax>1596</xmax>
-			<ymax>785</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>NestleKokoKrunchMaxxCup</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1349</xmin>
-			<ymin>584</ymin>
-			<xmax>1473</xmax>
-			<ymax>789</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>NestleKokoKrunchMaxxCup</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1221</xmin>
-			<ymin>576</ymin>
-			<xmax>1345</xmax>
-			<ymax>781</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>NestleKokoKrunchMaxxCup</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1348</xmin>
-			<ymin>787</ymin>
-			<xmax>1472</xmax>
+			<xmin>2402</xmin>
+			<ymin>792</ymin>
+			<xmax>2527</xmax>
 			<ymax>992</ymax>
 		</bndbox>
 	</object>
@@ -281,10 +197,58 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1217</xmin>
-			<ymin>794</ymin>
-			<xmax>1341</xmax>
-			<ymax>999</ymax>
+			<xmin>2534</xmin>
+			<ymin>790</ymin>
+			<xmax>2659</xmax>
+			<ymax>990</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NestleKokoKrunchMaxxCup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2415</xmin>
+			<ymin>1479</ymin>
+			<xmax>2540</xmax>
+			<ymax>1679</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NestleKokoKrunchMaxxCup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2538</xmin>
+			<ymin>1454</ymin>
+			<xmax>2663</xmax>
+			<ymax>1654</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NestleKokoKrunchMaxxCup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2661</xmin>
+			<ymin>1452</ymin>
+			<xmax>2786</xmax>
+			<ymax>1652</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NestleKokoKrunchMaxxCup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2542</xmin>
+			<ymin>1255</ymin>
+			<xmax>2667</xmax>
+			<ymax>1455</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -293,10 +257,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2074</xmin>
-			<ymin>695</ymin>
-			<xmax>2355</xmax>
-			<ymax>918</ymax>
+			<xmin>1646</xmin>
+			<ymin>638</ymin>
+			<xmax>1906</xmax>
+			<ymax>885</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -305,10 +269,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2087</xmin>
-			<ymin>171</ymin>
-			<xmax>2358</xmax>
-			<ymax>458</ymax>
+			<xmin>1646</xmin>
+			<ymin>1348</ymin>
+			<xmax>1919</xmax>
+			<ymax>1631</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -317,10 +281,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2075</xmin>
-			<ymin>459</ymin>
-			<xmax>2356</xmax>
-			<ymax>682</ymax>
+			<xmin>1644</xmin>
+			<ymin>1132</ymin>
+			<xmax>1904</xmax>
+			<ymax>1346</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -329,10 +293,382 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2076</xmin>
-			<ymin>923</ymin>
-			<xmax>2357</xmax>
-			<ymax>1146</ymax>
+			<xmin>1652</xmin>
+			<ymin>880</ymin>
+			<xmax>1913</xmax>
+			<ymax>1108</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NestleKokoKrunchMaxxCup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2056</xmin>
+			<ymin>1207</ymin>
+			<xmax>2140</xmax>
+			<ymax>1402</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NestleKokoKrunchMaxxCup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2129</xmin>
+			<ymin>1209</ymin>
+			<xmax>2227</xmax>
+			<ymax>1406</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NestleKokoKrunchMaxxCup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2229</xmin>
+			<ymin>1246</ymin>
+			<xmax>2352</xmax>
+			<ymax>1417</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NestleKokoKrunchMaxxCup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2021</xmin>
+			<ymin>1452</ymin>
+			<xmax>2229</xmax>
+			<ymax>1658</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NestleKokoKrunchComboCup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2044</xmin>
+			<ymin>196</ymin>
+			<xmax>2198</xmax>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NestleKokoKrunchComboCup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2044</xmin>
+			<ymin>619</ymin>
+			<xmax>2171</xmax>
+			<ymax>806</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NestleKokoKrunchDoubleChocoCup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2044</xmin>
+			<ymin>832</ymin>
+			<xmax>2140</xmax>
+			<ymax>1004</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NestleKokoKrunchDoubleChocoCup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2158</xmin>
+			<ymin>1007</ymin>
+			<xmax>2265</xmax>
+			<ymax>1190</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NestleKokoKrunchDoubleChocoCup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2156</xmin>
+			<ymin>836</ymin>
+			<xmax>2252</xmax>
+			<ymax>1008</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NestleKokoKrunchDoubleChocoCup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2049</xmin>
+			<ymin>1036</ymin>
+			<xmax>2145</xmax>
+			<ymax>1208</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NestleHoneyStarCup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2529</xmin>
+			<ymin>158</ymin>
+			<xmax>2646</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NestleHoneyStarCup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2069</xmin>
+			<ymin>403</ymin>
+			<xmax>2186</xmax>
+			<ymax>608</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NestleHoneyStarCup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2542</xmin>
+			<ymin>577</ymin>
+			<xmax>2659</xmax>
+			<ymax>782</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NestleHoneyStarCup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2525</xmin>
+			<ymin>364</ymin>
+			<xmax>2642</xmax>
+			<ymax>569</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NestleHoneyStarCup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2650</xmin>
+			<ymin>375</ymin>
+			<xmax>2767</xmax>
+			<ymax>580</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>SimbaSerealChocoChipsCupStrawberry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3108</xmin>
+			<ymin>1213</ymin>
+			<xmax>3265</xmax>
+			<ymax>1425</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>SimbaSerealChocoChipsCupStrawberry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2956</xmin>
+			<ymin>1447</ymin>
+			<xmax>3113</xmax>
+			<ymax>1659</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>SimbaSerealChocoChipsCupStrawberry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3123</xmin>
+			<ymin>1449</ymin>
+			<xmax>3280</xmax>
+			<ymax>1661</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>SimbaSerealChocoChipsCupCoklatSusuCoklat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3110</xmin>
+			<ymin>994</ymin>
+			<xmax>3277</xmax>
+			<ymax>1200</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>SimbaSerealChocoChipsCupCoklatSusuPutih</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3073</xmin>
+			<ymin>115</ymin>
+			<xmax>3227</xmax>
+			<ymax>327</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>SimbaSerealChocoChipsCupCoklatSusuPutih</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3074</xmin>
+			<ymin>336</ymin>
+			<xmax>3228</xmax>
+			<ymax>548</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>SimbaSerealChocoChipsCupCoklatSusuPutih</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2941</xmin>
+			<ymin>993</ymin>
+			<xmax>3095</xmax>
+			<ymax>1205</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>SimbaSerealChocoChipsCupCoklatSusuPutih</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2928</xmin>
+			<ymin>545</ymin>
+			<xmax>3082</xmax>
+			<ymax>757</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>SimbaSerealChocoChipsCupCoklatSusuPutih</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2916</xmin>
+			<ymin>343</ymin>
+			<xmax>3070</xmax>
+			<ymax>555</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>SimbaSerealChocoChipsCupCoklatSusuPutih</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3097</xmin>
+			<ymin>547</ymin>
+			<xmax>3251</xmax>
+			<ymax>759</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101163101100</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3394</xmin>
+			<ymin>71</ymin>
+			<xmax>3746</xmax>
+			<ymax>308</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101163101100</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3479</xmin>
+			<ymin>354</ymin>
+			<xmax>3694</xmax>
+			<ymax>596</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101163104100</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3488</xmin>
+			<ymin>590</ymin>
+			<xmax>3794</xmax>
+			<ymax>840</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101163104100</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3490</xmin>
+			<ymin>821</ymin>
+			<xmax>3796</xmax>
+			<ymax>1071</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101232304100</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3504</xmin>
+			<ymin>1100</ymin>
+			<xmax>3817</xmax>
+			<ymax>1335</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>90101232304100</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3514</xmin>
+			<ymin>1342</ymin>
+			<xmax>3885</xmax>
+			<ymax>1621</ymax>
 		</bndbox>
 	</object>
 </annotation>

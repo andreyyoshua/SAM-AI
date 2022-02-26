@@ -3,282 +3,926 @@ item {
 	id:1
 }
 item { 
-	name:'90101111202100/Garuda Atom Original - 115g + 23 g'
+	name:'90101111301100'
 	id:2
 }
 item { 
-	name:'90101111301100/Atom Pedas Garuda -230g'
+	name:'90101111302100'
 	id:3
 }
 item { 
-	name:'90101111302100/ Atom Pedas Garuda -100g'
+	name:'90101111607100'
 	id:4
 }
 item { 
-	name:'90101111302100/Atom Pedas Garuda -100g'
+	name:'90101111611100'
 	id:5
 }
 item { 
-	name:'90101111607100'
+	name:'90101111615100'
 	id:6
 }
 item { 
-	name:'90101111607100/Garuda Rosta Kacang Oven Rs Bawang'
+	name:'90101111617100'
 	id:7
 }
 item { 
-	name:'90101111611100/Garuda Rosta Kacang Pedas Rs Pedas -70g/95g'
+	name:'90101111701100'
 	id:8
 }
 item { 
-	name:'90101111615100/Garuda Rosta Wagyu Beef -100g'
+	name:'90101111702100'
 	id:9
 }
 item { 
-	name:'90101111617100'
+	name:'90101112101100'
 	id:10
 }
 item { 
-	name:'90101111701100/Telur Garuda -220g'
+	name:'90101112102100'
 	id:11
 }
 item { 
-	name:'90101111702100/Telur Garuda -110g'
+	name:'90101112103100'
 	id:12
 }
 item { 
-	name:'90101112101100/Garing Garuda -750g'
+	name:'90101112113100'
 	id:13
 }
 item { 
-	name:'90101112102100'
+	name:'90101112201100'
 	id:14
 }
 item { 
-	name:'90101112102100/Garing Garuda -375g'
+	name:'90101112202100'
 	id:15
 }
 item { 
-	name:'90101112102100/Garing Garuda 750g'
+	name:'90101151201100'
 	id:16
 }
 item { 
-	name:'90101112103100/Garing Garuda -200g'
+	name:'90101151204200'
 	id:17
 }
 item { 
-	name:'90101112113100'
+	name:'90101151402100'
 	id:18
 }
 item { 
-	name:'90101112113100/Garuda Kacang Kulit Premium -155g'
+	name:'90101151404200'
 	id:19
 }
 item { 
-	name:'90101112201100/Garuda Kc. Bawang 190G/210G'
+	name:'90101151604100'
 	id:20
 }
 item { 
-	name:'90101112202100/Garing Rasa Bawang -90g'
+	name:'90101154204100'
 	id:21
 }
 item { 
-	name:'90101112202100Garing Rasa Bawang -90g'
+	name:'90101154205100'
 	id:22
 }
 item { 
-	name:'90101151201100/Pilus Garuda Premium Pedas 80 + 16 g'
+	name:'90101163101100'
 	id:23
 }
 item { 
-	name:'90101151204200'
+	name:'90101163104100'
 	id:24
 }
 item { 
-	name:'90101151402100/ Snack Pilus Sapi Panggang 80 + 16 g'
+	name:'90101225202100'
 	id:25
 }
 item { 
-	name:'90101151402100/Snack Pilus Sapi Panggang 80 + 16 g'
+	name:'90101225202101'
 	id:26
 }
 item { 
-	name:'90101151404200/Garuda Pilus Rasa Sapi Panggang -56g'
+	name:'90101225205100'
 	id:27
 }
 item { 
-	name:'90101151604100'
+	name:'90101225205101'
 	id:28
 }
 item { 
-	name:'90101151604100/Garuda Pilus Mi Goreng 80 + 16 G'
+	name:'90101225209100'
 	id:29
 }
 item { 
-	name:'90101154204100'
+	name:'90101225209101'
 	id:30
 }
 item { 
-	name:'90101154205100/Garuda Crunchy Potato Daging Sapi BBQ 60g'
+	name:'90101225212100'
 	id:31
 }
 item { 
-	name:'90101163101100/Gery Snack & Sereal Bantal Extrude 29 g'
+	name:'90101225212101'
 	id:32
 }
 item { 
-	name:'90101163104100/Gery Sn.Bantal Extrude Keju -25g'
+	name:'90101225218101'
 	id:33
 }
 item { 
-	name:'90101225202100/Gery Salut Mlkst Keju F.Pack-110g'
+	name:'90101225226101'
 	id:34
 }
 item { 
-	name:'90101225202100/Gery Saluut Malkist Coklat Family Pack -110g'
+	name:'90101232211100'
 	id:35
 }
 item { 
-	name:'90101225202101/Gery Saluut MlkstCklt F.Pack-110g'
+	name:'90101232304100'
 	id:36
 }
 item { 
-	name:'90101225205100'
+	name:'AimBiskuitSquarePuff'
 	id:37
 }
 item { 
-	name:'90101225205100/Gery Saluut Malkist Sweet Cheese -110g'
+	name:'AnekaBiskuitSquarePuff'
 	id:38
 }
 item { 
-	name:'90101225205101/Gery Salut Mlkst Keju F.Pack-110g'
+	name:'ArnottsGoodTime'
 	id:39
 }
 item { 
-	name:'90101225209100'
+	name:'BinRiceCrackerScsameFlavour'
 	id:40
 }
 item { 
-	name:'90101225209100/Gery Saluut Malkist Kelapa Family Pack -105g'
+	name:'CemCemBalado'
 	id:41
 }
 item { 
-	name:'90101225209100/Gery Saluut MlkstCklt Kelapa-105g'
+	name:'CheeseBiskuit'
 	id:42
 }
 item { 
-	name:'90101225209101/Gery Salut MlkstKlapa F.Pack -105 gr'
+	name:'CheeseSnack'
 	id:43
 }
 item { 
-	name:'90101225212100'
+	name:'ChitatoLiteSapiPanggang'
 	id:44
 }
 item { 
-	name:'90101225212100/Gery Malkist GreenTea F.Pack -110g'
+	name:'ChitatoOriginalFlavor'
 	id:45
 }
 item { 
-	name:'90101225212101/Gery Saluut Malkist Matcha 100gr'
+	name:'ChoChoWaferRoll'
 	id:46
 }
 item { 
-	name:'90101225218101'
+	name:'ChocolatorOriginal'
 	id:47
 }
 item { 
-	name:'90101225218101/Gery Saluut MlkstCklt Kelapa-105g'
+	name:'DuaKelinciKacangCampur'
 	id:48
 }
 item { 
-	name:'90101225226101/Gery Malkist Saluut Abon - 105 Gr'
+	name:'DuaKelinciKacangGaring'
 	id:49
 }
 item { 
-	name:'90101232211100/DILAN Choco Crunchy C.Pouch 9.5g'
+	name:'DuaKelinciKacangGaring60g'
 	id:50
 }
 item { 
-	name:'90101232304100/Gery Snack & Sereal -100g'
+	name:'DuaKelinciKacangGaring750g'
 	id:51
 }
 item { 
-	name:'Bin Rice Cracker - Onion Flavour'
+	name:'DuaKelinciKacangKoroPedas'
 	id:52
 }
 item { 
-	name:'Bin Rice Cracker - Scsame Flavour'
+	name:'DuaKelinciKacangLofet'
 	id:53
 }
 item { 
-	name:'Fantastic - Barbeque'
+	name:'DuaKelinciKacangPolongOriginalFlavor'
 	id:54
 }
 item { 
-	name:'Fantastic - Honey & Soy'
+	name:'DuaKelinciKacangRasaBawang'
 	id:55
 }
 item { 
-	name:'Fantastic - Original'
+	name:'DuaKelinciKacangSangrai'
 	id:56
 }
 item { 
-	name:'Fantastic - Seaweed'
+	name:'DuaKelinciKacangShangHaiOriginal'
 	id:57
 }
 item { 
-	name:'Garuda Kacang Kulit 405 gram'
+	name:'DuaKelinciKacangShanghaiOriginal'
 	id:58
 }
 item { 
-	name:'Kong Guan - Sugar Puff'
+	name:'DuaKelinciKacangShanghaiOriginal225g'
 	id:59
 }
 item { 
-	name:'Nissin Cream Crackers (Special Edition) - Light Crispy Goodness'
+	name:'DuaKelinciKacangSukroOriginal'
 	id:60
 }
 item { 
-	name:'Nissin Vegetable Crackers - Krekers Sayuran'
+	name:'DuaKelinciSukroBBQ'
 	id:61
 }
 item { 
-	name:'Roma Malkist - Abon'
+	name:'DuaKelinciSukroKacangBersalut'
 	id:62
 }
 item { 
-	name:'Roma Malkist - Coklat'
+	name:'DuaKelinciSukroKribo'
 	id:63
 }
 item { 
-	name:'Roma Malkist - Cppuccino'
+	name:'DuaKelinciSukroOvenRasaBawang'
 	id:64
 }
 item { 
-	name:'Roma Malkist - Crackers'
+	name:'DuaKelinciSukroOvenRasaJagungBakar'
 	id:65
 }
 item { 
-	name:'Roma Malkist - Cream Crackers'
+	name:'DuaKelinciSukroPolong'
 	id:66
 }
 item { 
-	name:'Roma Malkist - Keju Manis'
+	name:'DuaKelinciSukroRasaKedelai'
 	id:67
 }
 item { 
-	name:'Ryvita - Dark Rye'
+	name:'DuaKelinciTicTacOriginal'
 	id:68
 }
 item { 
-	name:'Ryvita - The Original'
+	name:'DuaKelinciTicTacRasaPedas'
 	id:69
 }
 item { 
-	name:'id not found/Gery Malkist Saluut Double Abon - 105 Gr'
+	name:'FantasticBarbeque'
 	id:70
 }
 item { 
-	name:'id tidak ada/Gery Malkist Saluut Double Abon - 105 Gr'
+	name:'FantasticHoney&Soy'
 	id:71
+}
+item { 
+	name:'FantasticOriginal'
+	id:72
+}
+item { 
+	name:'FantasticRiceCrackersCheese'
+	id:73
+}
+item { 
+	name:'FantasticRiceCrackersHoney&Soy'
+	id:74
+}
+item { 
+	name:'FantasticRiceCrackersSeaweed'
+	id:75
+}
+item { 
+	name:'FantasticSeaweed'
+	id:76
+}
+item { 
+	name:'Garuda Kacang Kulit 405 gram'
+	id:77
+}
+item { 
+	name:'GenjiOriginalPie'
+	id:78
+}
+item { 
+	name:'GenjiSoftPie'
+	id:79
+}
+item { 
+	name:'GoPotato104Gr'
+	id:80
+}
+item { 
+	name:'GoPotato60Gr'
+	id:81
+}
+item { 
+	name:'HatariCoklat'
+	id:82
+}
+item { 
+	name:'HatariMalkist'
+	id:83
+}
+item { 
+	name:'HatariMalkistSugarCrackers'
+	id:84
+}
+item { 
+	name:'HatariSeeHongPuff'
+	id:85
+}
+item { 
+	name:'IndomaretKacangAtom'
+	id:86
+}
+item { 
+	name:'IndomaretKacangGoreng'
+	id:87
+}
+item { 
+	name:'IndomaretMalkistCrackers'
+	id:88
+}
+item { 
+	name:'IndomaretMalkistCreamCrackers'
+	id:89
+}
+item { 
+	name:'KacangDuaKelinciAyamBawang'
+	id:90
+}
+item { 
+	name:'KacangDuaKelinciBawang'
+	id:91
+}
+item { 
+	name:'KacangDuaKelinciBbq'
+	id:92
+}
+item { 
+	name:'KacangDuaKelinciMixNut'
+	id:93
+}
+item { 
+	name:'KacangDuaKelinciOriginal'
+	id:94
+}
+item { 
+	name:'KacangDuaKelinciPedas'
+	id:95
+}
+item { 
+	name:'KacangDuaKelinciPolong'
+	id:96
+}
+item { 
+	name:'KacangGaringDuaKelinci'
+	id:97
+}
+item { 
+	name:'KacangKoroIndomaret'
+	id:98
+}
+item { 
+	name:'KacangSangraiDuaKelinci'
+	id:99
+}
+item { 
+	name:'KacangSukroBBQ'
+	id:100
+}
+item { 
+	name:'KacangSukroKedele'
+	id:101
+}
+item { 
+	name:'KacangSukroOriginal'
+	id:102
+}
+item { 
+	name:'KacangSukroOvenBawang'
+	id:103
+}
+item { 
+	name:'KhonGuanMalkistCokelat'
+	id:104
+}
+item { 
+	name:'KhongGuanCocoaPuffBiskuitWafer'
+	id:105
+}
+item { 
+	name:'KhongGuanMalkistCokelat'
+	id:106
+}
+item { 
+	name:'KhongGuanMalkistCoklat'
+	id:107
+}
+item { 
+	name:'KhongGuanMalkistCrackers'
+	id:108
+}
+item { 
+	name:'KhongGuanMalkistSalutCokelat'
+	id:109
+}
+item { 
+	name:'KhongGuanSaltCheeseCombociz'
+	id:110
+}
+item { 
+	name:'KhongGuanSaltcheeseCrackers'
+	id:111
+}
+item { 
+	name:'KhongGuanSaltinesVegetablesCrackers'
+	id:112
+}
+item { 
+	name:'KlopCoconutMilkCrackers'
+	id:113
+}
+item { 
+	name:'KlopSalutoChocoNutCaramel'
+	id:114
+}
+item { 
+	name:'KlopSlutoChocoNutCaramel'
+	id:115
+}
+item { 
+	name:'KokolaCrackersGarlicBread'
+	id:116
+}
+item { 
+	name:'KokolaMalkistSusu'
+	id:117
+}
+item { 
+	name:'KokolaOlezzChocoParty'
+	id:118
+}
+item { 
+	name:'KokolaOlezzStrawberry'
+	id:119
+}
+item { 
+	name:'KongGuanCrackersGula'
+	id:120
+}
+item { 
+	name:'KongGuanCrackersKelapa'
+	id:121
+}
+item { 
+	name:'KongGuanCreanCrackers'
+	id:122
+}
+item { 
+	name:'KongGuanKrekersSayur'
+	id:123
+}
+item { 
+	name:'KongGuanMalkistAbon'
+	id:124
+}
+item { 
+	name:'KongGuanMalkistCokelat'
+	id:125
+}
+item { 
+	name:'KongGuanMalkistCrackers'
+	id:126
+}
+item { 
+	name:'KongGuanMalkistSeaWeed'
+	id:127
+}
+item { 
+	name:'KongGuanMarieSalutCoklat'
+	id:128
+}
+item { 
+	name:'KongGuanSalt&PepperCrackers'
+	id:129
+}
+item { 
+	name:'KongGuanSugarPuff'
+	id:130
+}
+item { 
+	name:'KuaciReboCaramel'
+	id:131
+}
+item { 
+	name:'KuaciReboMatchaTea'
+	id:132
+}
+item { 
+	name:'KuaciReboMilk'
+	id:133
+}
+item { 
+	name:'Lexus'
+	id:134
+}
+item { 
+	name:'Malkist'
+	id:135
+}
+item { 
+	name:'MayasiPedas'
+	id:136
+}
+item { 
+	name:'MondeEggRolls'
+	id:137
+}
+item { 
+	name:'MondeEggRollsChineseNewYearPackage'
+	id:138
+}
+item { 
+	name:'Mr.PHoneyRoastedPeanuts'
+	id:139
+}
+item { 
+	name:'Mr.PKacangAtomOriginal'
+	id:140
+}
+item { 
+	name:'Mr.PKacangAtomPedas'
+	id:141
+}
+item { 
+	name:'Mr.PPeanut'
+	id:142
+}
+item { 
+	name:'Mr.pKacangAtomPedas'
+	id:143
+}
+item { 
+	name:'Mr.pKacangOriginal'
+	id:144
+}
+item { 
+	name:'MunchysLexus'
+	id:145
+}
+item { 
+	name:'NabatCoklat'
+	id:146
+}
+item { 
+	name:'NabatKeju'
+	id:147
+}
+item { 
+	name:'NabatiCokelat'
+	id:148
+}
+item { 
+	name:'NabatiGatitoLidahKucingCokelat'
+	id:149
+}
+item { 
+	name:'NabatiGrackerRichberry'
+	id:150
+}
+item { 
+	name:'NabatiGrackerRichoco'
+	id:151
+}
+item { 
+	name:'NabatiGrakerRichberyCheese'
+	id:152
+}
+item { 
+	name:'NabatiGrakerRichoco'
+	id:153
+}
+item { 
+	name:'NabatiKeju'
+	id:154
+}
+item { 
+	name:'NabatiLavaPink'
+	id:155
+}
+item { 
+	name:'NabatiSusu'
+	id:156
+}
+item { 
+	name:'NarayaCheeseCorn'
+	id:157
+}
+item { 
+	name:'NestleGoldCornFlakesBox'
+	id:158
+}
+item { 
+	name:'NestleHoneyStarBox150G'
+	id:159
+}
+item { 
+	name:'NestleHoneyStarBox300G'
+	id:160
+}
+item { 
+	name:'NestleHoneyStarCup'
+	id:161
+}
+item { 
+	name:'NestleKokoKrunchComboCup'
+	id:162
+}
+item { 
+	name:'NestleKokoKrunchDoubleChocoCup'
+	id:163
+}
+item { 
+	name:'NestleKokoKrunchMaxxCup'
+	id:164
+}
+item { 
+	name:'NissinBiskuitKelapaIjo'
+	id:165
+}
+item { 
+	name:'NissinButterCoconut'
+	id:166
+}
+item { 
+	name:'NissinCreamCrackers(Special Edition)LightCrispyGoodness'
+	id:167
+}
+item { 
+	name:'NissinGabinCheese'
+	id:168
+}
+item { 
+	name:'NissinGabinCokelat'
+	id:169
+}
+item { 
+	name:'NissinGabinKeju'
+	id:170
+}
+item { 
+	name:'NissinGabinMilk'
+	id:171
+}
+item { 
+	name:'NissinGabinOriginal'
+	id:172
+}
+item { 
+	name:'NissinGabinSusu'
+	id:173
+}
+item { 
+	name:'NissinGoldenMalkist'
+	id:174
+}
+item { 
+	name:'NissinGoldenMalkistButter'
+	id:175
+}
+item { 
+	name:'NissinGoldenMalkistChocolate'
+	id:176
+}
+item { 
+	name:'NissinGoldenMalkistCokelat'
+	id:177
+}
+item { 
+	name:'NissinGoldenMalkistMentega'
+	id:178
+}
+item { 
+	name:'NissinLemoniaChocolate'
+	id:179
+}
+item { 
+	name:'NissinVegeeBiscuit'
+	id:180
+}
+item { 
+	name:'NissinVegeeBiscuits'
+	id:181
+}
+item { 
+	name:'NissinVegetableCrackers'
+	id:182
+}
+item { 
+	name:'NissinVegetableCrackersKrekersSayuran'
+	id:183
+}
+item { 
+	name:'OreoFizzy'
+	id:184
+}
+item { 
+	name:'RomaCreamCrackers'
+	id:185
+}
+item { 
+	name:'RomaMalkistAbon'
+	id:186
+}
+item { 
+	name:'RomaMalkistCappuccino'
+	id:187
+}
+item { 
+	name:'RomaMalkistCappucino'
+	id:188
+}
+item { 
+	name:'RomaMalkistCokelat'
+	id:189
+}
+item { 
+	name:'RomaMalkistCoklat'
+	id:190
+}
+item { 
+	name:'RomaMalkistCoklatKelapa'
+	id:191
+}
+item { 
+	name:'RomaMalkistCrackers'
+	id:192
+}
+item { 
+	name:'RomaMalkistCreamCrackers'
+	id:193
+}
+item { 
+	name:'RomaMalkistKeju'
+	id:194
+}
+item { 
+	name:'RomaMalkistKejuManis'
+	id:195
+}
+item { 
+	name:'RomaMalkistKejuTabur'
+	id:196
+}
+item { 
+	name:'RomaMalkistKelapaKopyor'
+	id:197
+}
+item { 
+	name:'RomaMalkistKorean'
+	id:198
+}
+item { 
+	name:'RomaMalkistKoreanBBQ'
+	id:199
+}
+item { 
+	name:'RyvitaDark Rye'
+	id:200
+}
+item { 
+	name:'RyvitaDarkRye'
+	id:201
+}
+item { 
+	name:'RyvitaTheOriginal'
+	id:202
+}
+item { 
+	name:'SaltinesOriginalCrackers'
+	id:203
+}
+item { 
+	name:'SaltinesVegetableCrackers'
+	id:204
+}
+item { 
+	name:'SerenaCaramelisedBiscuitTroy'
+	id:205
+}
+item { 
+	name:'SerenaKismisSultanaCookies'
+	id:206
+}
+item { 
+	name:'SerenaSnackCrackersChickenFlavored'
+	id:207
+}
+item { 
+	name:'SiantaTopGoPotatoOriginal'
+	id:208
+}
+item { 
+	name:'SiantarTopDeoGoPotato'
+	id:209
+}
+item { 
+	name:'SimbaChocoPillow'
+	id:210
+}
+item { 
+	name:'SimbaSerealChocoChipsBox'
+	id:211
+}
+item { 
+	name:'SimbaSerealChocoChipsBucket'
+	id:212
+}
+item { 
+	name:'SimbaSerealChocoChipsCupCoklatSusuCoklat'
+	id:213
+}
+item { 
+	name:'SimbaSerealChocoChipsCupCoklatSusuPutih'
+	id:214
+}
+item { 
+	name:'SimbaSerealChocoChipsCupStrawberry'
+	id:215
+}
+item { 
+	name:'SlaiOlaiNanas'
+	id:216
+}
+item { 
+	name:'SquarePuffBiskuit'
+	id:217
+}
+item { 
+	name:'SukroBbq'
+	id:218
+}
+item { 
+	name:'SukroKedele'
+	id:219
+}
+item { 
+	name:'SukroOriginal'
+	id:220
+}
+item { 
+	name:'SukroOvenBawang'
+	id:221
+}
+item { 
+	name:'TicTacAyamBawang'
+	id:222
+}
+item { 
+	name:'TicTacBbq'
+	id:223
+}
+item { 
+	name:'TicTacMix'
+	id:224
+}
+item { 
+	name:'TicTacOriginal'
+	id:225
+}
+item { 
+	name:'TicTacPedas'
+	id:226
+}
+item { 
+	name:'TicTacRumputLaut'
+	id:227
+}
+item { 
+	name:'TicTacSapiPanggang'
+	id:228
+}
+item { 
+	name:'TicTacSeaWeed'
+	id:229
+}
+item { 
+	name:'ToastyCheeseCrackers'
+	id:230
+}
+item { 
+	name:'TongGardenKacangKulitShandong'
+	id:231
+}
+item { 
+	name:'UbmMalkistCrackers'
+	id:232
 }

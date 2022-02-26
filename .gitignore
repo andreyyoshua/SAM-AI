@@ -4,3 +4,6 @@ TensorFlow/models/
 TensorFlow/scripts/
 TensorFlow/workspace/models
 TensorFlow/workspace/pre-trained-models
+YOLO/yolov5
+TensorFlow/workspace/images/archive.tar.gz
+TensorFlow/workspace/images/20febarchive.tar.gz

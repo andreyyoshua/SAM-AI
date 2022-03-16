@@ -15,7 +15,9 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from .reference.views import handle_reference_request
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('reference/', handle_reference_request)
 ]

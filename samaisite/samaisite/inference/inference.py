@@ -49,13 +49,9 @@ def first_trial(request: WSGIRequest):
         yMax = detection['ymax']
         for cell in cells:
             box = Bbox(xMin, yMin, xMax, yMax, "")
-            isOverlap = cell.isRectangleOverlap(box)
+            isOverlap = box.intersecting_over_50_percent(cell)
             if isOverlap:
-                confidence = detection['confidence']
-                _class = detection['class']
                 name = detection['name']
                 response[name] = cell.label
-
-                break
     
     return response

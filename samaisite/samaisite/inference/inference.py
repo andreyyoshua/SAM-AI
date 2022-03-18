@@ -1,17 +1,27 @@
-from matplotlib import pyplot as plt
+from django.core.handlers.wsgi import WSGIRequest
+from django.core.files.storage import FileSystemStorage
+
+import time
 import numpy as np
 from PIL import Image
 import torch
-import os
 
 from .utils import Bbox
 
-def first_trial():
-    model = torch.hub.load('/app/samaisite/yolo', 'custom', source='local', path='/app/samaisite/static/best.pt', force_reload=True)
-    print(model)
+def first_trial(request: WSGIRequest):
+    uploaded_image = request.FILES['image']
+    if uploaded_image == None:
+        return {}
+    
+    fss = FileSystemStorage()
+    file = fss.save(str(time.time()).replace(".", "") + ".png", uploaded_image)
+    print(file)
+    file_url = "/app" + fss.url(file)
+    print(file_url)
 
-    img = os.path.join('/app/samaisite/static', '20211204_174056.jpg')
-    image = Image.open(img)
+    model = torch.hub.load('/app/samaisite/yolo', 'custom', source='local', path='/app/samaisite/static/best.pt', force_reload=True)
+
+    image = Image.open(file_url)
     width = image.size[0]
     height = image.size[1]
 
@@ -31,7 +41,7 @@ def first_trial():
 
     # print(cells)
     # print(image.size)
-    results = model(img)
+    results = model(file_url)
     results.pandas().xyxy[0]
     detections = results.pandas().xyxy[0].to_dict(orient="records")
 

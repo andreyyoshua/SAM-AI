@@ -15,9 +15,7 @@ def first_trial(request: WSGIRequest):
     
     fss = FileSystemStorage()
     file = fss.save(str(time.time()).replace(".", "") + ".png", uploaded_image)
-    print(file)
     file_url = "/app" + fss.url(file)
-    print(file_url)
 
     model = torch.hub.load('/app/samaisite/yolo', 'custom', source='local', path='/app/samaisite/static/best.pt', force_reload=True)
 
@@ -39,8 +37,6 @@ def first_trial(request: WSGIRequest):
             box = Bbox(x1, y1, x2, y2, "{} {}".format(i + 1, ii + 1))
             cells = np.append(cells, box)
 
-    # print(cells)
-    # print(image.size)
     results = model(file_url)
     results.pandas().xyxy[0]
     detections = results.pandas().xyxy[0].to_dict(orient="records")

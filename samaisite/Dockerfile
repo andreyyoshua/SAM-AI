@@ -19,6 +19,7 @@ RUN groupadd -r sam_ai && useradd -r -g sam_ai sam_ai
 
 RUN apt-get update \
   && apt-get install -y \
+  libgl1 \
   && apt-get clean \
   && rm -rf /var/lib/apt/lists/*
 

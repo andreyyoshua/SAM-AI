@@ -19,5 +19,5 @@ from .inference.views import handle_inference_request
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('inference/', handle_inference_request)
+    path('inference/<int:row>/<int:column>', handle_inference_request)
 ]

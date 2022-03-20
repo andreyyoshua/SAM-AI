@@ -1,6 +1,7 @@
 from django.core.handlers.wsgi import WSGIRequest
 from django.core.files.storage import FileSystemStorage
 
+import json
 import time
 import numpy as np
 from PIL import Image
@@ -8,7 +9,7 @@ import torch
 
 from .utils import Bbox
 
-def first_trial(request: WSGIRequest):
+def first_trial(request: WSGIRequest, row: int, col: int):
     uploaded_image = request.FILES['image']
     if uploaded_image == None:
         return {}
@@ -22,9 +23,7 @@ def first_trial(request: WSGIRequest):
     image = Image.open(file_url)
     width = image.size[0]
     height = image.size[1]
-
-    col = 3
-    row = 3
+    print(col, row)
     each_width = width / col
     each_height = height / row
     cells = np.array([])

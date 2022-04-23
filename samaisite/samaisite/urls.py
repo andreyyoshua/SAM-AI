@@ -14,10 +14,13 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 from django.contrib import admin
+from django.conf import settings
+from django.conf.urls.static import static
 from django.urls import path
-from .inference.views import handle_inference_request
+from .inference.views import handle_inference_request, handle_file_version_request
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('inference/<int:row>/<int:column>', handle_inference_request)
-]
+    path('inference/<int:row>/<int:column>', handle_inference_request),
+    path('tflite/version', handle_file_version_request)
+] + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)

@@ -9,7 +9,7 @@ import torch
 
 from .utils import Bbox
 
-def first_trial(request: WSGIRequest, row: int, col: int):
+def infer_image(request: WSGIRequest, row: int, col: int):
     uploaded_image = request.FILES['image']
     if uploaded_image == None:
         return {}

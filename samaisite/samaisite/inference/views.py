@@ -12,10 +12,11 @@ def handle_inference_request(request: WSGIRequest, row: int, column: int) -> Jso
 
 @csrf_exempt
 def handle_file_version_request(request: WSGIRequest) -> JsonResponse:
-    path = "/app/samaisite/static/"
+    path = "./samaisite/static/"
     highest_version = ""
     for file in glob.glob(path + "*.tflite"):
-        index = file.index("static/") + 7
+        print(file)
+        index = file.index("static\\") + 7
         version = file[index:]
         dot_index = version.index(".tflite")
         version = version[:dot_index]
@@ -23,7 +24,7 @@ def handle_file_version_request(request: WSGIRequest) -> JsonResponse:
         if version > highest_version:
             highest_version = version
 
-    url = request.build_absolute_uri("/static/" + highest_version + ".tflite")
+    url = "http://34.101.215.60/static/" + highest_version + ".tflite"
     return JsonResponse({
         "latest_version": highest_version,
         "file_url": url

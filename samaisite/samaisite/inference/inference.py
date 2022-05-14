@@ -40,6 +40,7 @@ def infer_image(request: WSGIRequest, row: int, col: int):
     results.pandas().xyxy[0]
     detections = results.pandas().xyxy[0].to_dict(orient="records")
 
+    array = []
     response = {}
     for detection in detections:
         xMin = detection['xmin']
@@ -51,6 +52,8 @@ def infer_image(request: WSGIRequest, row: int, col: int):
             isOverlap = box.intersecting_over_50_percent(cell)
             if isOverlap:
                 name = detection['name']
+                confidence =  str(detection['confidence'])
                 response[name] = cell.label
+                array.append({name: cell.label})
     
-    return response
+    return array

@@ -19,6 +19,7 @@ def infer_image(request: WSGIRequest, row: int, col: int):
     file_url = "/app" + fss.url(file)
 
     model = torch.hub.load('/app/samaisite/yolo', 'custom', source='local', path='/app/samaisite/static/best.pt', force_reload=True)
+    model.conf = 0.3
 
     image = Image.open(file_url)
     width = image.size[0]
